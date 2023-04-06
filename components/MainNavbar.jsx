@@ -41,7 +41,7 @@ const MainNavbar = ({ logo }) => {
         duration: 0.7,
       }}
       className={`right-0 left-0 fixed ${scroll ? "top-0" : "top-15"} ${
-        scroll ? "bg-[rgb(255,255,255,0.7)]" : "bg-transparent"
+        scroll ? "bg-[rgb(255,255,255,0.7)]" : "bg-[#a3a3a375]"
       } z-30`}
     >
       <div

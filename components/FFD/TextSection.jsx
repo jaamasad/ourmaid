@@ -1,6 +1,5 @@
 import React from "react";
-import { motion } from "framer-motion";
-
+import FileDownload from "@/components/FileDownload";
 const TextSection = () => {
   return (
     <>
@@ -14,6 +13,10 @@ const TextSection = () => {
             <h1 className="sm:text-3xl text-2xl font-semibold title-font mb-4 text-pink-900">
               FRANCHISE DISCLOSURE DOCUMENT (FDD)
             </h1>
+            <FileDownload 
+              text="Click here to download the FDD" 
+              fileName="Franchise_Disclosure_Document.pdf" 
+            />
           </div>
           <h3 className="text-xl md:text-2xl font-[500] mb-2 text-pink-800">
             FRANCHISE DISCLOSURE DOCUMENT, 03/21/2023.
@@ -12265,7 +12268,7 @@ const TextSection = () => {
 
 <p>  Date of Receipt Print Name    Signature  (individually or as an officer, member, or partner of)    a [STATE of Incorporation] [Corporation/LLC/Partnership]</p><p>As an Our Maids franchisee, you will operate a business offering residential and commercial cleaning services.</p>
 
-<p>The total investment necessary to begin operation of a franchised business ranges from $42,500 to $55,250. This includes $20,000 which must be paid to the franchisor or affiliate. The total investment necessary to begin operation of an Area Development Business for 3-5 outlets is $62,500 to $95,250. This includes $40,000 to $60,000 that must be paid to the franchisor or affiliate.</p>
+<p>     ,500 to $95,250. This includes $40,000 to $60,000 that must be paid to the franchisor or affiliate.</p>
 
 <p>This disclosure document summarizes certain provisions of your franchise agreement and other information in plain English. Read this disclosure document and all accompanying agreements carefully. You must receive this disclosure document at least 14 calendar days before you sign a binding agreement with, or make any payment to, franchisor or an affiliate in connection with the proposed franchise sale. Note, however, that no government agency has verified the information contained in this document.</p>
 

@@ -1,9 +1,14 @@
 import React from "react";
+import FileDownload from "../FileDownload";
 
 const TextSection = () => {
   return (
     <section className="text-gray-800 body-font bg-[#F3E5F6]">
       <div className="max-w-7xl px-5 py-24 mx-auto">
+      <FileDownload
+        text="Click here to download the Operational Manual"
+        fileName="Our_Maids_Operations_Manual.pdf"
+      />
         <div className="flex flex-col space-y-3 font-[400] text-lg w-full mb-12">
           <p>&nbsp;</p>
           <p>
@@ -21,22 +26,22 @@ const TextSection = () => {
           <p className="text-center text-pink-800 font-semibold text-4xl">
             <span>Table of Contents</span>
           </p>
-          <p className="" onClick={{}}>
+          <a href="#s1">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 1: Introduction
             </span>
-          </p>
+          </a>
           <p>
             <span>How to Use this Manual</span>
           </p>
           <p>
             <span>Confidential Disclosure Agreements</span>
           </p>
-          <p>
+          <a href="#s2">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 2: Welcome to Our Maids, Inc.
             </span>
-          </p>
+          </a>
           <p>
             <span>History</span>
           </p>
@@ -46,19 +51,19 @@ const TextSection = () => {
           <p>
             <span>Principles and Promises</span>
           </p>
-          <p>
+          <a href="#s3">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 3: Support Resources
             </span>
-          </p>
+          </a>
           <p>
             <span>Franchise Support Matrix</span>
           </p>
-          <p>
+          <a href="#s4">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 4: Pre-Opening Timetable and Obligations
             </span>
-          </p>
+          </a>
           <p>
             <span>Pre-Opening Timetable</span>
           </p>
@@ -89,30 +94,30 @@ const TextSection = () => {
           <p>
             <span>Day 9</span>
           </p>
-          <p>
+          <a href="#s5">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 5: Training Requirements
             </span>
-          </p>
+          </a>
           <p>
             <span>Orientation Training</span>
           </p>
           <p>
             <span>Additional Training and Refresher Courses</span>
           </p>
-          <p>
+          <a href="#s6">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 6: Staffing Your Our Maids, Inc. Franchise
             </span>
-          </p>
+          </a>
           <p>
             <span>Staffing Your Franchise</span>
           </p>
-          <p>
+          <a href="#s7">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 7: Company Policies
             </span>
-          </p>
+          </a>
           <p>
             <span>Setting Up Your Home-Based Location</span>
           </p>
@@ -160,23 +165,23 @@ const TextSection = () => {
           <p>
             <span>Computer Usage</span>
           </p>
-          <p>
+          <a href="#s8">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 8: Operation and Maintenance
             </span>
-          </p>
+          </a>
           <p>
             <span>Daily Procedures</span>
           </p>
           <p>
             <span>Alarms, Locks and Keys</span>
           </p>
-          <p>
+          <a href="#s9">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 9: Equipment, Computer System, Inventory, and Supplies
               &ndash; Optional
             </span>
-          </p>
+          </a>
           <p>
             <span>Equipment and Supplies</span>
           </p>
@@ -189,16 +194,16 @@ const TextSection = () => {
           <p>
             <span>Accounting Services</span>
           </p>
-          <p>
+          <a href="#s10">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 10: Administration
             </span>
-          </p>
-          <p>
+          </a>
+          <a href="#s11">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 11: Reports, Audits, and Inspections
             </span>
-          </p>
+          </a>
           <p>
             <span>Franchisee Reports</span>
           </p>
@@ -214,11 +219,11 @@ const TextSection = () => {
           <p>
             <span>Contact with Others</span>
           </p>
-          <p>
+          <a href="#s12">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 12: Marketing
             </span>
-          </p>
+          </a>
           <p>
             <span>Franchisee Marketing Requirements</span>
           </p>
@@ -240,16 +245,16 @@ const TextSection = () => {
           <p>
             <span>Pricing Policies and Fees Structure</span>
           </p>
-          <p>
+          <a href="#s13">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 13: Sales and Pricing
             </span>
-          </p>
-          <p>
+          </a>
+          <a href="#s14">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 14: Insurance Requirements and Risk Management
             </span>
-          </p>
+          </a>
           <p>
             <span>General Insurance Coverage</span>
           </p>
@@ -265,11 +270,11 @@ const TextSection = () => {
           <p>
             <span>Reporting Incidents</span>
           </p>
-          <p>
+          <a href="#s15">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 15: Corporate Structure and Financing
             </span>
-          </p>
+          </a>
           <p>
             <span>Setting Up Your Entity</span>
           </p>
@@ -288,12 +293,12 @@ const TextSection = () => {
           <p>
             <span>Financing Alternatives</span>
           </p>
-          <p>
+          <a href="#s16">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 16: Trademarks and Trade Secrets &ndash; Protection
               Policies
             </span>
-          </p>
+          </a>
           <p>
             <span>Patents, Copyrights and Proprietary Information</span>
           </p>
@@ -303,11 +308,11 @@ const TextSection = () => {
           <p>
             <span>Examples of Trademark Misuse</span>
           </p>
-          <p>
+          <a href="#s17">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 17: Renewal, Transfer, and Closing
             </span>
-          </p>
+          </a>
           <p>
             <span>Conditions of Renewal</span>
           </p>
@@ -320,11 +325,11 @@ const TextSection = () => {
           <p>
             <span>Termination</span>
           </p>
-          <p>
+          <a href="#s18">
             <span className="font-semibold text-lg md:text-xl cursor-pointer">
               Chapter 18: Expansion and Relocation Requirements
             </span>
-          </p>
+          </a>
           <p>
             <span>
               Franchise Expansion, New Territory, Resale Purchase or Territory
