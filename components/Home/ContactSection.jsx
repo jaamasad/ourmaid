@@ -13,32 +13,35 @@ const PRIVATE_KEY =
   const doc = new GoogleSpreadsheet(SPREADSHEET_ID)
 
 const ContactSection = () => {
-  const [name, setName] = useState("")
-  const [email, setEmail] = useState("")
-  const [phone, setPhone] = useState("")
-  const [address, setAddress] = useState("")
-  const [postal, setPostal] = useState("")
-  const [state, setState] = useState("")
-  const [hear, setHear] = useState("")
-  const [capital, setCapital] = useState("")
-  const [message, setMessage] = useState("")
   const [showModal, setShowModal] = React.useState(false);
+  const [formValues, setFormValues] = useState({
+    name: '',
+    email: '',
+    phone: '',
+    address: '',
+    postal: '',
+    state: '',
+    hear: '',
+    capital: '',
+    message: ''
+  });
 
+  
   const handleSubmit = () => {
     submitData()
   }
 
   const submitData = () => {
     const form_value = { 
-      Name: name, 
-      Email: email, 
-      Phone: phone, 
-      Address: address, 
-      Postal: postal,
-      State: state,
-      Hear: hear,
-      Capital: capital,
-      Message: message
+      Name: formValues.name, 
+      Email: formValues.email, 
+      Phone: formValues.phone, 
+      Address: formValues.address, 
+      Postal: formValues.postal,
+      State: formValues.state,
+      Hear: formValues.hear,
+      Capital: formValues.capital,
+      Message: formValues.message
     }
 
     const appendSpreadsheet = async (row) => {
@@ -50,15 +53,17 @@ const ContactSection = () => {
         await doc.loadInfo()
         const sheet = doc.sheetsById[SHEET_ID]
         const result = await sheet.addRow(row)
-        setName("")
-        setEmail("")
-        setPhone("")
-        setAddress("")
-        setPostal("")
-        setState("")
-        setHear("")
-        setCapital("")
-        setMessage("")
+        setFormValues({
+          name: '',
+          email: '',
+          phone: '',
+          address: '',
+          postal: '',
+          state: '',
+          hear: '',
+          capital: '',
+          message: ''
+        });
         setShowModal(true)
       } catch (e) {}
     }
@@ -66,6 +71,10 @@ const ContactSection = () => {
     const newRow = form_value
     appendSpreadsheet(newRow)
   }
+  const handleChange = (event) => {
+    const { name, value } = event.target;
+    setFormValues({ ...formValues, [name]: value });
+  };
 
   return (
     <section className="text-gray-600 body-font bg-[#F3E5F6]">
@@ -102,9 +111,9 @@ const ContactSection = () => {
                   type="text"
                   id="name"
                   name="name"
-                  value={name}
+                  value={formValues.name}
                   placeholder="Enter Name"
-                  onChange={(e) => setName(e.target.value)}
+                  onChange={handleChange}
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                 />
               </div>
@@ -120,9 +129,9 @@ const ContactSection = () => {
                   required
                   id="email"
                   name="email"
-                  value={email}
+                  value={formValues.email}
                   placeholder="Enter email"
-                  onChange={(e) => setEmail(e.target.value)}
+                  onChange={handleChange}
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                 />
               </div>
@@ -137,9 +146,9 @@ const ContactSection = () => {
                   id="phone"
                   required
                   name="phone"
-                  value={phone}
+                  value={formValues.phone}
                   placeholder="Enter phone"
-                  onChange={(e) => setPhone(e.target.value)}
+                  onChange={handleChange}
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                 />
               </div>
@@ -153,9 +162,9 @@ const ContactSection = () => {
                   type="text"
                   required
                   id="address"
-                  value={address}
+                  value={formValues.address}
                   placeholder="Enter address"
-                  onChange={(e) => setAddress(e.target.value)}
+                  onChange={handleChange}
                   name="address"
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                 />
@@ -171,9 +180,9 @@ const ContactSection = () => {
                   required
                   id="postal"
                   name="postal"
-                  value={postal}
+                  value={formValues.postal}
                   placeholder="Enter postal"
-                  onChange={(e) => setPostal(e.target.value)}
+                  onChange={handleChange}
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                 />
               </div>
@@ -188,9 +197,9 @@ const ContactSection = () => {
                   id="state"
                   required
                   name="state"
-                  value={state}
+                  value={formValues.state}
                   placeholder="Enter state"
-                  onChange={(e) => setState(e.target.value)}
+                  onChange={handleChange}
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                 />
               </div>
@@ -204,9 +213,9 @@ const ContactSection = () => {
                   type="text"
                   id="hear"
                   name="hear"
-                  value={hear}
+                  value={formValues.hear}
                   placeholder="Enter hear"
-                  onChange={(e) => setHear(e.target.value)}
+                  onChange={handleChange}
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                 />
               </div>
@@ -220,9 +229,9 @@ const ContactSection = () => {
                   type="text"
                   id="capital"
                   name="capital"
-                  value={capital}
+                  value={formValues.capital}
                   placeholder="Enter capital"
-                  onChange={(e) => setCapital(e.target.value)}
+                  onChange={handleChange}
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                 />
               </div>
@@ -235,9 +244,9 @@ const ContactSection = () => {
                 <textarea
                   id="message"
                   name="message"
-                  value={message}
+                  value={formValues.message}
                   placeholder="Enter message"
-                  onChange={(e) => setMessage(e.target.value)}
+                  onChange={handleChange}
                   className="w-full bg-gray-100 bg-opacity-50 rounded border border-gray-300 focus:border-pink-500 focus:bg-white focus:ring-2 focus:ring-pink-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
                 ></textarea>
               </div>
