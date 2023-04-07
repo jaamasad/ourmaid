@@ -8,6 +8,8 @@ import Section3 from "@/components/Home/Section3";
 import Section4 from "@/components/Home/Section4";
 import Section5 from "@/components/Home/Section5";
 import Cards from "@/components/Home/Cards";
+import Map from "@/components/Home/Map";
+
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -22,6 +24,7 @@ export default function Home() {
       <Section4 />
       <Section5 />
       <Cards />
+      <Map />
     </>
   );
 }

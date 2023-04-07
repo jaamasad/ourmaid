@@ -23,22 +23,22 @@ const TopNavbar = () => {
           className="flex gap-3"
         >
           <li>
-            <a href="#" className="text-2xl text-white hover:text-[#F3D8E6]">
+            <a href="https://facebook.com/maids4us" className="text-2xl text-white hover:text-[#F3D8E6]" target="_blank">
               <FaFacebookF />
             </a>
           </li>
           <li>
-            <a href="#" className="text-2xl text-white hover:text-[#F3D8E6]">
+            <a href="https://twitter.com/ourmaids" className="text-2xl text-white hover:text-[#F3D8E6]" target="_blank">
               <FaTwitter />
             </a>
           </li>
           <li>
-            <a href="#" className="text-2xl text-white hover:text-[#F3D8E6]">
+            <a href="https://instagram.com/ourmaids" className="text-2xl text-white hover:text-[#F3D8E6]" target="_blank">
               <FaInstagram />
             </a>
           </li>
           <li>
-            <a href="#" className="text-2xl text-white hover:text-[#F3D8E6]">
+            <a href="https://linkedin.com/in/antoniovmoreno" className="text-2xl text-white hover:text-[#F3D8E6]" target="_blank">
               <FaLinkedin />
             </a>
           </li>
@@ -62,9 +62,9 @@ const TopNavbar = () => {
                 ? "302-389-5221"
                 : "Call us. Llamenos. Appelle nous."}{" "}
             </p>
-            <p className="text-gray-300 text-1xl font-[500]">
+            <a href="mailto:customercare@ourmaids.com" className="text-gray-300 text-1xl font-[500]">
               FRANCHISING@OURMAIDS.COM{" "}
-            </p>
+            </a>
           </div>
         </motion.div>
       </div>

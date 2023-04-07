@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="relative pt-36 h-[65vh]">
         <video
-        src="/video1.mov"
+        src="/video1_new.mp4"
         className="absolute inset-0 w-full h-full object-cover filter brightness-75 z-0"
         autoPlay
         loop

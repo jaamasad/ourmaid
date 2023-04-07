@@ -4,7 +4,7 @@ const Main = () => {
   return (
     <div className="relative pt-36 h-[80vh]">
       <video
-        src="/video2.mov"
+        src="/video2_new.mp4"
         className="absolute inset-0 w-full h-full object-cover filter brightness-75 z-0"
         autoPlay
         loop
