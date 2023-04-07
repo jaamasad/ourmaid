@@ -5,6 +5,9 @@ import {
   FaTwitter,
   FaInstagram,
   FaLinkedin,
+  FaYelp,
+  FaEnvelopeSquare,
+  FaWhatsapp
 } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 
@@ -40,6 +43,21 @@ const TopNavbar = () => {
           <li>
             <a href="https://linkedin.com/in/antoniovmoreno" className="text-2xl text-white hover:text-[#F3D8E6]" target="_blank">
               <FaLinkedin />
+            </a>
+          </li>
+          <li>
+            <a href="https://yelp.com/biz/our-maids-grand-prairie" className="text-2xl text-white hover:text-[#F3D8E6]" target="_blank">
+              <FaYelp />
+            </a>
+          </li>
+          <li>
+            <a href="mailto:customercare@ourmaids.com" className="text-2xl text-white hover:text-[#F3D8E6]" target="_blank">
+              <FaEnvelopeSquare />
+            </a>
+          </li>
+          <li>
+            <a href="https://web.whatsapp.com/send?phone=972-762-2881" className="text-2xl text-white hover:text-[#F3D8E6]" target="_blank">
+              <FaWhatsapp />
             </a>
           </li>
         </motion.ul>
