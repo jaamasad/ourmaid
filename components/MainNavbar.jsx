@@ -14,9 +14,8 @@ import {
 import { HiOutlineMail } from "react-icons/hi";
 
 const links = [
-  { name: "home", link: "/" },
   { name: "brochure", link: "/brochure" },
-  { name: "webinar", link: "/webinar" },
+  // { name: "webinar", link: "/webinar" },
   { name: "franchise costs", link: "/franchiseCosts" },
   { name: "FDD", link: "/fdd" },
   { name: "Operations Manual", link: "/operationsManual" },

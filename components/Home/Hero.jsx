@@ -3,10 +3,10 @@ import { motion } from "framer-motion";
 
 const Hero = () => {
   return (
-    <div className="relative pt-36 h-[140vh]">
+    <div className="relative pt-36 h-[180vh]">
       <video
         src="/video1_new.mp4"
-        className="absolute inset-0 w-full h-full object-cover filter brightness-75 z-0"
+        className="absolute inset-0 w-full h-[100vh] object-cover filter brightness-75 z-0"
         autoPlay
         loop
         muted

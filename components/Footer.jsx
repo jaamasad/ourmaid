@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -33,7 +34,9 @@ const Footer = () => {
             }}
             className=" sm:w-1/2 "
           >
-            <img className="w-36 md:w-72 mb-4" alt="hero" src="/logo.jpg" />
+            <Link href="/">
+              <img className="w-36 md:w-72 mb-4" alt="hero" src="/logo.jpg" />
+            </Link>
             <h5 className="font-semibold ">
               © 2023 All Rights Reserved worldwide | 2000-2023. The Our Maids
               logo, Our Maids and "A helping Hand for Busy People" are
@@ -50,7 +53,7 @@ const Footer = () => {
             }}
             className="w-full sm:w-1/2 "
           >
-            <h1 className="title-font text-xl md:text-3xl mb-2 md:mb-4 font-semibold text-pink-900">
+            <h1 className="title-font text-xl md:text-3xl mb-2 md:mb-4 font-semibold text-white">
               OUR MAIDS FRANCHISE, INC.
             </h1>
             <p className="leading-normal text-[16x] md:text-[17px] mb-4">
