@@ -2,10 +2,10 @@ import React from "react";
 
 const Main = () => {
   return (
-    <div className="relative pt-36 h-[80vh]">
+    <div className="relative pt-36 h-[80vh] md:h-[130vh] lg:h-[140vh]">
       <video
         src="/video2_new.mp4"
-        className="absolute inset-0 w-full h-full object-cover filter brightness-75 z-0"
+        className="absolute inset-0 w-full h-auto object-cover filter brightness-75 z-0"
         autoPlay
         loop
         muted

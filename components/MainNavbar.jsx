@@ -10,6 +10,7 @@ import {
   FaTwitter,
   FaInstagram,
   FaLinkedin,
+  FaPhoneAlt
 } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 
@@ -46,6 +47,9 @@ const MainNavbar = ({ logo }) => {
       <div
         className={`flex px-2  max-w-7xl mx-auto items-center justify-between py-[18px] h-20`}
       >
+        <a href="https://web.whatsapp.com/send?phone=972-762-2881" className="text-2xl text-pink-800 lg:hidden hover:text-[#F3D8E6]" target="_blank">
+          <FaPhoneAlt />
+         </a>
         <motion.div
           initial={{ x: -25, opacity: 0 }}
           whileInView={{ x: 0, opacity: 1 }}
@@ -59,7 +63,7 @@ const MainNavbar = ({ logo }) => {
               src="/logo.jpg"
               // src={urlFor(logo[0]?.logoImg)}
               alt="Logo"
-              className="w-32 lg:w-40"
+              className="w-60 lg:w-40"
             />
           </Link>
         </motion.div>
@@ -184,7 +188,7 @@ const MainNavbar = ({ logo }) => {
                     style={{ overflowWrap: "anywhere" }}
                   >
                     {" "}
-                    Call us. Llamenos. Appelle:{" "}
+                    Call us. Llamenos. Appelle nous:{" "}
                     <span className="text-pink-700">302-389-5221</span>
                   </p>
                   <p className="text-gray-700 text-lg text-center font-[500] text-clip">
