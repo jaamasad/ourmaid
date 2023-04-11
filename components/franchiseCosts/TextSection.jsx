@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const TextSection = () => {
   return (
-    <section className="text-gray-800 body-font bg-[#F3E5F6]">
+    <section className="text-gray-800 mt-[40%] body-font bg-[#F3E5F6]">
       <div className="max-w-7xl px-5 py-24 mx-auto">
         <motion.div
           initial={{ opacity: 0 }}

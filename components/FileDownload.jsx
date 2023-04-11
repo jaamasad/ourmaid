@@ -1,7 +1,6 @@
 import React from "react";
 
 const FileDownload = ({ text, fileName }) => {
-    console.log(fileName)
     const onButtonClick = () => {
         fetch(`document/${fileName}`).then(response => {
             response.blob().then(blob => {
