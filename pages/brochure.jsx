@@ -8,8 +8,8 @@ const Brochure = () => {
   return (
     <>
       <Main />
-      <DomesticServices />
       <FranchiseBrochure />
+      <DomesticServices />
       <OurServices />
     </>
   );

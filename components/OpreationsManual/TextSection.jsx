@@ -3,7 +3,7 @@ import FileDownload from "../FileDownload";
 
 const TextSection = () => {
   return (
-    <section className="text-gray-800 body-font bg-[#F3E5F6]">
+    <section className="text-gray-800 body-font pt-[300px] bg-[#F3E5F6]">
       <div className="max-w-7xl px-5 py-24 mx-auto">
       <FileDownload
         text="Click here to download the Operational Manual"

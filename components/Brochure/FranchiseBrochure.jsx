@@ -12,7 +12,12 @@ const FranchiseBrochure = () => {
       className="text-gray-800 body-font bg-[#F3E5F6]"
     >
       <div className="max-w-7xl px-6 py-24 mx-auto">
-      <iframe src="/document/Franchise-Brochure.pdf#toolbar=0" width="100%" height="1000" />
+        <img src="/document/brochure/franchise-brochure.webp" alt="" />
+        <img src="/document/brochure/franchise-brochure_1.webp" alt="" />
+        <img src="/document/brochure/franchise-brochure_2.webp" alt="" />
+        <img src="/document/brochure/franchise-brochure_3.webp" alt="" />
+        <img src="/document/brochure/franchise-brochure_4.webp" alt="" />
+        <img src="/document/brochure/franchise-brochure_5.webp" alt="" />
       </div>
     </motion.section>
   );

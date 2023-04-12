@@ -63,7 +63,7 @@ const MainNavbar = ({ logo }) => {
               src="/logo.jpg"
               // src={urlFor(logo[0]?.logoImg)}
               alt="Logo"
-              className="w-60 lg:w-40"
+              className="w-60"
             />
           </Link>
         </motion.div>

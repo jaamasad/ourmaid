@@ -11,7 +11,7 @@ const Hero = () => {
         loop
         muted
       ></video>
-      <div className="z-20 flex items-center justify-center">
+      <div className="z-20 flex items-center mt-[24%] mb-[56%] md:mt-[40d%] md:mb-[22%] lg:mt-[44%] lg:mb-[24%] justify-center">
         <div className="flex items-center justify-center flex-col z-20 py-5 md:py-7  px-4 md:px-8  text-white rounded-[15px] absolute mt-80 w-[85%] lg:w-[900px] mx-auto">
           <h1
             style={{ textShadow: "4px 4px 12px #000000" }}

@@ -19,18 +19,9 @@ const Main = () => {
             Best Residential and commercial cleaning franchise in the world
             since 2,023.
           </h3>
-          <h3 className="text-lg md:text-2xl font-bold text-center mb-2 lg:mb-3">
-            OUR CONCEPT.
-            <span className="text-pink-300">
-              (BROCHURE GOES HERE, we're working on it)
-            </span>{" "}
-          </h3>
-          <p className="text-lg font-medium md:text-xl text-center">
-            Offers cleaning services to homes, offices, and facilities of all
-            types. We also offer Concierge Service to communities in shared
-            condominiums. You will find here what to expect from our
-            Professional teams at every job site.
-          </p>
+          <h1 className="text-3xl md:text-6xl font-bold text-center tracking-[2px] mb-6 lg:mb-10">
+            BROCHURE
+          </h1>
         </div>
       </div>
     </div>

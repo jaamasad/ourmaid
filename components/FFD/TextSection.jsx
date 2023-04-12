@@ -3,7 +3,7 @@ import FileDownload from "@/components/FileDownload";
 const TextSection = () => {
   return (
     <>
-      <section className="text-gray-800 body-font bg-[#F3E5F6]">
+      <section className="text-gray-800 pt-[300px] body-font bg-[#F3E5F6]">
         <div className="max-w-7xl px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
             <h1 className="sm:text-4xl text-3xl font-[500] title-font mb-4 text-pink-800">
