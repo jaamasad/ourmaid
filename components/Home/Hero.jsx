@@ -9,7 +9,6 @@ const Hero = () => {
         className="absolute inset-0 w-full h-auto object-cover filter brightness-75 z-0"
         autoPlay
         loop
-        muted
       ></video>
       <div className="z-20 flex items-center justify-center">
         <div className="flex items-center justify-center flex-col z-20 py-5 md:py-10  px-4 md:px-8 bg-black text-white opacity-70 rounded-[30px] absolute -bottom-60 md:-bottom-28  w-[95%] md:w-[75%] lg:w-[900px] xl:w-[1050px] mx-auto">
