@@ -102,3 +102,23 @@ dist
 
 # TernJS port file
 .tern-port
+/_build/
+/deps/
+/doc/
+/node_modules/
+/tmp/
+/cover/
+
+/assets/node_modules/
+
+/backend/_build/
+/backend/assets/
+/backend/deps/
+/backend/doc/
+/backend/phx_new-*.ez
+
+/integration_test/_build/
+/integration_test/deps/
+
+erl_crash.dump
+phoenix-*.ez
