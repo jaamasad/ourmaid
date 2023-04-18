@@ -1,8 +1,11 @@
 defmodule OurmaidWeb.Router do
   use OurmaidWeb, :router
-
+  alias Ourmaid.Guardian
   pipeline :api do
     plug :accepts, ["json"]
+  end
+  pipeline :jwt_auth do
+   plug Guardian.AuthPipeline
   end
 
   scope "/api/v1", OurmaidWeb do
@@ -10,6 +13,12 @@ defmodule OurmaidWeb.Router do
 
     post "/sign_up", UserController, :create
     post "/sign_in", UserController, :sign_in
+  end
+
+  scope "/api/v1", OurmaidWeb do
+    pipe_through [:api, :jwt_auth]
+
+    get "/users", UserController, :show
   end
 
   # Enables LiveDashboard only for development
