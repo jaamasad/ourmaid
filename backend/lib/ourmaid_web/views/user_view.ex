@@ -1,12 +1,12 @@
 defmodule OurmaidWeb.UserView do
   use OurmaidWeb, :view
-  alias OurmaidWeb.UserView
 
-  def render("index.json", %{users: users}) do
+
+  def render("index.json", _) do
     %{data: "success"}
   end
 
-  def render("show.json", %{user: user}) do
+  def render("show.json", _) do
     %{status: "success"}
   end
 
