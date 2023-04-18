@@ -9,7 +9,7 @@ defmodule Ourmaid.Accounts do
   alias Ourmaid.Accounts.User
 
   alias Ourmaid.Guardian
-  import Comeonin.Bcrypt, only: [checkpw: 2, dummy_checkpw: 0]
+  import Comeonin.Bcrypt, only: [dummy_checkpw: 0]
   import Bcrypt, only: [verify_pass: 2]
 
   def token_sign_in(username, password) do

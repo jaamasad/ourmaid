@@ -19,6 +19,9 @@ defmodule OurmaidWeb.Router do
     pipe_through [:api, :jwt_auth]
 
     get "/users", UserController, :show
+    get "/release/show", ReleaseController, :show
+    post "/release/new", ReleaseController, :create
+
   end
 
   # Enables LiveDashboard only for development
