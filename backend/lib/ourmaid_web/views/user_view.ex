@@ -3,19 +3,15 @@ defmodule OurmaidWeb.UserView do
   alias OurmaidWeb.UserView
 
   def render("index.json", %{users: users}) do
-    %{data: render_many(users, UserView, "user.json")}
+    %{data: "success"}
   end
 
   def render("show.json", %{user: user}) do
-    %{data: render_one(user, UserView, "user.json")}
+    %{status: "success"}
   end
 
   def render("user.json", %{user: user}) do
-    %{
-      id: user.id,
-      username: user.username,
-      password_hash: user.password_hash
-    }
+    %{status: "success", username: user.username}
   end
   def render("jwt.json", %{jwt: jwt}) do
     %{jwt: jwt}
