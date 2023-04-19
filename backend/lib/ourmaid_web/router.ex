@@ -17,11 +17,7 @@ defmodule OurmaidWeb.Router do
     plug :accepts, ["json"]
   end
 
-  scope "/", OurmaidWeb do
-    pipe_through :browser
 
-    get "/", PageController, :index
-  end
 
   # Other scopes may use custom stacks.
   # scope "/api", OurmaidWeb do
@@ -74,10 +70,8 @@ defmodule OurmaidWeb.Router do
 
   scope "/", OurmaidWeb do
     pipe_through [:browser, :require_authenticated_user]
+    resources "/", ReleaseController
 
-    get "/users/settings", UserSettingsController, :edit
-    put "/users/settings", UserSettingsController, :update
-    get "/users/settings/confirm_email/:token", UserSettingsController, :confirm_email
   end
 
   scope "/", OurmaidWeb do
