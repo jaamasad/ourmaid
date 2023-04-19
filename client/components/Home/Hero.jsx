@@ -5,14 +5,12 @@ const Hero = () => {
   return (
     <div className="relative h-fit">
       <video
-        src="/home.mov"
+        src="/home.mov#t=0.39"
         className="absolute inset-0 z-0 object-cover w-full h-auto filter brightness-75"
-        muted
         controls = {true}
         loop
-      >
-        <source src="/home.mov" type="video/mov" />
-      </video>
+        preload="metadata"
+      ></video>
       <div className="z-20 flex items-center justify-center">
         <div className="flex items-center justify-center flex-col z-20 py-5 md:py-10  px-4 md:px-8 bg-black text-white opacity-70 rounded-[30px] -bottom-60 md:-bottom-28  w-[95%] md:w-[75%] lg:w-[900px] xl:w-[1050px] mx-auto">
           <h1 className="text-3xl md:text-6xl font-bold text-center tracking-[2px] mb-6 lg:mb-10">
