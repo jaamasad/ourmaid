@@ -3,6 +3,9 @@
 import "../css/app.css"
 
 import Trix from "trix"
+import Ckeditor5 from "ckeditor5"
+
+
 // If you want to use Phoenix channels, run `mix help phx.gen.channel`
 // to get started and then uncomment the line below.
 // import "./user_socket.js"

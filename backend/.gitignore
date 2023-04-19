@@ -16,6 +16,7 @@
 # If the VM crashes, it generates a dump, let's ignore it too.
 erl_crash.dump
 
+
 # Also ignore archive artifacts (built via "mix archive.build").
 *.ez
 
@@ -32,3 +33,4 @@ ourmaid-*.tar
 npm-debug.log
 /assets/node_modules/
 
+node_modules/
