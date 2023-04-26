@@ -159,17 +159,6 @@ const TextSection = () => {
             </p>
 
             <p>
-              {" "}
-              4. Unregistered Trademark. The primary trademark that you will use
-              in your business is not federally registered. If the
-              Franchisor&rsquo;s ability to use this trademark in your area is
-              challenged, you may have to identify your business and its
-              products/services by a different name. This change can be
-              expensive and may reduce brand recognition of the products and
-              services you offer.
-            </p>
-
-            <p>
               Certain states may require other risks to be highlighted. Check
               the &ldquo;State Specific Addenda&rdquo; (if any) to see whether
               your state requires other risks to be highlighted.
@@ -1248,11 +1237,7 @@ const TextSection = () => {
             <p></p>
 
             <p>
-              We do not have a federal registration for our principal trademark.
-              Therefore, our trademark does not have many legal benefits and
-              rights as a federally registered trademark. If our right to use
-              the trademark is challenged, you may have to change to an
-              alternative trademark, which may increase your expenses.
+             We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.
             </p>
 
             <p>
@@ -7680,8 +7665,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -8050,7 +8033,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -9988,8 +9971,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -10358,7 +10339,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -12296,8 +12277,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -12666,7 +12645,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -14604,8 +14583,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -14974,7 +14951,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -16912,8 +16889,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -17282,7 +17257,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -19220,8 +19195,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -19590,7 +19563,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -21528,8 +21501,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -21898,7 +21869,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
