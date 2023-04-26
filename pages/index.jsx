@@ -8,6 +8,7 @@ import Section4 from "@/components/Home/Section4";
 import Section5 from "@/components/Home/Section5";
 import Cards from "@/components/Home/Cards";
 import Map from "@/components/Home/Map";
+import MainHead from "@/components/MainHead";
 
 
 const inter = Inter({ subsets: ["latin"] });
@@ -15,6 +16,7 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
+      <MainHead metaTitle='Best Cleaning franchise in the world.' />
       <Hero />
       <Section1 />
 =      <Section2 />

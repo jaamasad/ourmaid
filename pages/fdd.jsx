@@ -1,6 +1,7 @@
 import Hero from '@/components/FFD/Hero'
 import TextSection from '@/components/FFD/TextSection'
 import React, { useEffect, useState } from 'react'
+import MainHead from '@/components/MainHead'
 
 const FDD = () => {
   const [authunticate, setAuthunticate] = useState(false)
@@ -25,6 +26,7 @@ const FDD = () => {
   }
   return (
     <div>
+      <MainHead metaTitle='Residential and Commercial cleaning franchise, FDD.' />
       {
         !authunticate ? <div className='absolute top-0 w-full h-full z-40  bg-[#1d1d2b] '>
           <div class="w-full m-auto mt-[10%] max-w-xs">
