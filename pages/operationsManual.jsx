@@ -1,3 +1,4 @@
+import MainHead from '@/components/MainHead'
 import Hero from '@/components/OpreationsManual/Hero'
 import TextSection from '@/components/OpreationsManual/TextSection'
 import React, { useEffect, useState } from 'react'
@@ -25,6 +26,7 @@ const OperationsManual = () => {
   }
   return (
     <div>
+      <MainHead metaTitle='Cleaning franchise operations manual.' />
       {
         !authunticate ? <div className='absolute top-0 w-full h-full z-40  bg-[#1d1d2b] '>
           <div class="w-full m-auto mt-[10%] max-w-xs">

@@ -8,7 +8,8 @@ const Section1 = () => {
       <div className="max-w-7xl px-5 py-24 mx-auto overflow-x-hidden">
         <div className="flex flex-col text-center w-full mb-12">
           <h1 className="sm:text-5xl text-4xl font-semibold title-font mb-4 text-pink-800">
-            Why Choose Our Maids Franchise, Inc.?
+            PRESS RELEASES by Our Maids Franchise, Inc.
+            We’ve opened twelve franchises so far. Find your nearest location by contacting us.
           </h1>
           <p className="text-lg md:text-xl mb-5 font-medium">
             We are America's most affordable residential and commercial cleaning
