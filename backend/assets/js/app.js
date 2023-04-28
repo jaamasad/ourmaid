@@ -2,8 +2,6 @@
 // Remove this line if you add a your own CSS build pipeline (e.g postcss).
 import "../css/app.css"
 
-import Trix from "trix"
-import Ckeditor5 from "ckeditor5"
 
 
 // If you want to use Phoenix channels, run `mix help phx.gen.channel`
