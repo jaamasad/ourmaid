@@ -431,10 +431,10 @@ const TextSection = () => {
           </p>
           <p>
             <span>
-              This Agreement is entered into this ___ day of ________, 202__ by
-              and between ______________________ with offices at
-              _____________________ (hereinafter "Franchisee") and
-              ______________________, with offices at _____________________
+              This Agreement is entered into this   day of   __, 202__ by
+              and between   with offices at
+                      (hereinafter "Franchisee") and
+               , with offices at        
               (hereinafter "Franchisor").
             </span>
           </p>
@@ -607,10 +607,10 @@ const TextSection = () => {
           </p>
           <p>
             <span>
-              This Agreement is entered into this ___ day of ________, 202__ by
-              and between ______________________ with offices at
-              _____________________ (hereinafter "Franchisee") and
-              ______________________, with offices at _____________________
+              This Agreement is entered into this   day of   __, 202__ by
+              and between   with offices at
+                      (hereinafter "Franchisee") and
+               , with offices at        
               (hereinafter "Franchisor").
             </span>
           </p>
@@ -5768,7 +5768,7 @@ const TextSection = () => {
               On March 21, 2022, we filed an application to register the service
               mark &ldquo;Our Maids, Inc. &reg;&rdquo; on the principal register
               of the United States Patent and Trademark Office (USPTO). On
-              ___________, we received registration of the service Mark in the
+                 __, we received registration of the service Mark in the
               United States Trademark Office. All affidavits required to
               preserve and renew this Mark have been filed. There are no
               agreements limiting our right to use or license the use of our

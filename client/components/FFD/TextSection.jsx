@@ -159,17 +159,6 @@ const TextSection = () => {
             </p>
 
             <p>
-              {" "}
-              4. Unregistered Trademark. The primary trademark that you will use
-              in your business is not federally registered. If the
-              Franchisor&rsquo;s ability to use this trademark in your area is
-              challenged, you may have to identify your business and its
-              products/services by a different name. This change can be
-              expensive and may reduce brand recognition of the products and
-              services you offer.
-            </p>
-
-            <p>
               Certain states may require other risks to be highlighted. Check
               the &ldquo;State Specific Addenda&rdquo; (if any) to see whether
               your state requires other risks to be highlighted.
@@ -1248,11 +1237,7 @@ const TextSection = () => {
             <p></p>
 
             <p>
-              We do not have a federal registration for our principal trademark.
-              Therefore, our trademark does not have many legal benefits and
-              rights as a federally registered trademark. If our right to use
-              the trademark is challenged, you may have to change to an
-              alternative trademark, which may increase your expenses.
+             We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.
             </p>
 
             <p>
@@ -1781,14 +1766,14 @@ const TextSection = () => {
 
             <p>
               {" "}
-              This Franchise Agreement made this _____ day of _____________,
-              20___, is by and between OUR MAIDS FRANCHISE, INC..
+              This Franchise Agreement made this  __ day of     _,
+              20 , is by and between OUR MAIDS FRANCHISE, INC..
               (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or
-              &ldquo;our&rdquo;) and _______________________________, an
+              &ldquo;our&rdquo;) and      __, an
               individual/partnership/corporation/limited liability company
-              established in the State of ______________________ and whose
-              principal address is _________________
-              ____________________________________ (&ldquo;Franchisee,&rdquo;
+              established in the State of   and whose
+              principal address is      __
+                   __ (&ldquo;Franchisee,&rdquo;
               &ldquo;you,&rdquo; or &ldquo;your&rdquo;).
             </p>
 
@@ -2062,8 +2047,8 @@ const TextSection = () => {
             <p>
               {" "}
               The territory which is hereby granted to Franchisee shall be
-              ___________________, at
-              _________________________________________________ (the
+                    _, at
+                 __ (the
               &ldquo;Territory&rdquo;). Franchisee shall be prohibited from
               operating a franchise outside of the Territory without the prior
               written consent of Franchisor.
@@ -4853,7 +4838,7 @@ const TextSection = () => {
             <p>
               {" "}
               THIS RELEASE is made and given by
-              _____________________________________________,
+                _,
               (&ldquo;Releasor&rdquo;) with reference to the following facts:
             </p>
 
@@ -4865,23 +4850,23 @@ const TextSection = () => {
             <p>The following consideration is given:</p>
 
             <p>
-              _______ the execution by Releasor of a successor Franchise
+                _ the execution by Releasor of a successor Franchise
               Agreement or other renewal documents renewing the franchise (the
               &ldquo;Franchise&rdquo;); or
             </p>
 
             <p>
-              _______ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of
+                _ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of
               its rights and duties under the Franchise Agreement; or
             </p>
 
             <p>
-              _______ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of
+                _ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of
               rights and duties under the Franchise Agreement; or
             </p>
 
             <p>
-              _______________________________________________________ [insert
+                   __ [insert
               description]
             </p>
 
@@ -4938,28 +4923,28 @@ const TextSection = () => {
 
             <p>
               {" "}
-              By:_______________________________
-              By:_______________________________ Antonio Moreno, CEO
+              By:    
+              By:     Antonio Moreno, CEO
             </p>
 
             <p>
-              Printed Name:_______________________
-              Date:______________________________
+              Printed Name: _
+              Date:   __
             </p>
 
             <p>
               {" "}
-              Title:______________________________ SCHEDULE 2 TO THE FRANCHISE
+              Title:   __ SCHEDULE 2 TO THE FRANCHISE
               AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT
             </p>
 
             <p>
               {" "}
-              This &ldquo;Agreement&rdquo; made as of the ____ day of
-              _____________, 20____, is by and between______ _________,
+              This &ldquo;Agreement&rdquo; made as of the  _ day of
+                  _, 20 _, is by and between      ,
               (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or
               &ldquo;our&rdquo;) and
-              ________________________________________(&ldquo;Individual,&rdquo;
+                     (&ldquo;Individual,&rdquo;
               &ldquo;you,&rdquo; or &ldquo;your&rdquo;).
             </p>
 
@@ -4968,7 +4953,7 @@ const TextSection = () => {
             <p>
               {" "}
               WHEREAS, Franchisee is a party to that certain Franchise Agreement
-              dated _______________, 20__ (&ldquo;Franchise Agreement&rdquo;) by
+              dated      , 20__ (&ldquo;Franchise Agreement&rdquo;) by
               and between Franchisee and the Franchisor, Our Maids Franchise,
               Inc. (&ldquo;Company&rdquo;); and
             </p>
@@ -5393,9 +5378,9 @@ const TextSection = () => {
             <p>
               {" "}
               THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given
-              this day of____________, 20 , by . In consideration of, and as an
+              this day of    , 20 , by . In consideration of, and as an
               inducement to, the execution of that certain Franchise Agreement
-              dated ____________ herewith (&ldquo;Agreement&rdquo;) by Our Maids
+              dated      herewith (&ldquo;Agreement&rdquo;) by Our Maids
               Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the
               undersigned hereby personally and unconditionally guarantees to
               Franchisor and its successors and assigns, for the term of the
@@ -5820,11 +5805,11 @@ const TextSection = () => {
 
             <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
             <p>
               {" "}
-              By:__________________________ Date:_________________________
+              By:  _ Date:  
               ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT
             </p>
 
@@ -5863,9 +5848,9 @@ const TextSection = () => {
 
             <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p> By:__________________________ Date:_________________________</p>
+            <p> By:  _ Date:  </p>
 
             <p>MARYLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -5911,9 +5896,9 @@ const TextSection = () => {
 
             <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p> By:__________________________ Date:_________________________</p>
+            <p> By:  _ Date:  </p>
 
             <p>MINNESOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -5984,9 +5969,9 @@ const TextSection = () => {
 
             <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p>By:__________________________ Date:_________________________</p>
+            <p>By:  _ Date:  </p>
 
             <p>NORTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -6039,11 +6024,11 @@ const TextSection = () => {
 
             <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
             <p>
               {" "}
-              By:__________________________ Date:_________________________ RHODE
+              By:  _ Date:   RHODE
               ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT
             </p>
 
@@ -6083,9 +6068,9 @@ const TextSection = () => {
 
             <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p> By:__________________________ Date:_________________________</p>
+            <p> By:  _ Date:  </p>
 
             <p>SOUTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -6105,9 +6090,9 @@ const TextSection = () => {
 
             <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p> By:__________________________ Date:_________________________</p>
+            <p> By:  _ Date:  </p>
 
             <p>WASHINGTON ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -6205,11 +6190,11 @@ const TextSection = () => {
 
             <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
             <p>
               {" "}
-              By:__________________________ Date:_________________________
+              By:  _ Date:  
               WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT
             </p>
 
@@ -6243,9 +6228,9 @@ const TextSection = () => {
 
             <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p> By:__________________________ Date:_________________________</p>
+            <p> By:  _ Date:  </p>
 
             <p> EXHIBIT D TO THE FRANCHISE DISCLOSURE DOCUMENT</p>
 
@@ -6283,7 +6268,7 @@ const TextSection = () => {
               This Area Development Agreement (this &ldquo;Agreement&rdquo;) is
               made this day of , 20__ by and between Our Maids Franchise, Inc.
               (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and
-              ___________________________ (&ldquo;developer&rdquo; or
+                __ (&ldquo;developer&rdquo; or
               &ldquo;you&rdquo;).
             </p>
 
@@ -6400,26 +6385,26 @@ const TextSection = () => {
 
             <p>
               {" "}
-              By: ____________________________ Name: __________________________
-              Title: ___________________________ Date:
-              ___________________________
+              By:     Name:   _
+              Title:   __ Date:
+                __
             </p>
 
             <p>
               {" "}
-              Developer ________________________________ By:
-              ____________________________ Name: __________________________
-              Title: ___________________________ Date:
-              ___________________________
+              Developer     _ By:
+                  Name:   _
+              Title:   __ Date:
+                __
             </p>
 
             <p>
               {" "}
-              Guarantors By: ____________________________ Name:
-              __________________________ Date: ___________________________ By:
-              ____________________________ Name: __________________________
-              Date: ___________________________ By: ____________________________
-              Name: __________________________ Date: ___________________________
+              Guarantors By:     Name:
+                _ Date:   __ By:
+                  Name:   _
+              Date:   __ By:    
+              Name:   _ Date:   __
             </p>
 
             <p>APPENDIX A</p>
@@ -6474,9 +6459,9 @@ const TextSection = () => {
 
             <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p> By:__________________________ Date:_________________________</p>
+            <p> By:  _ Date:  </p>
 
             <p>MARYLAND ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -6522,9 +6507,9 @@ const TextSection = () => {
 
             <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p> By:__________________________ Date:_________________________</p>
+            <p> By:  _ Date:  </p>
 
             <p> MINNESOTA ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -6590,9 +6575,9 @@ const TextSection = () => {
 
             <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p>By:__________________________ Date:_________________________</p>
+            <p>By:  _ Date:  </p>
 
             <p></p>
 
@@ -6692,9 +6677,9 @@ const TextSection = () => {
 
             <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-            <p> By:__________________________ By:__________________________ </p>
+            <p> By:  _ By:  _ </p>
 
-            <p> By:__________________________ Date:_________________________</p>
+            <p> By:  _ Date:  </p>
 
             <p></p>
 
@@ -6813,9 +6798,9 @@ const TextSection = () => {
               NY, ND, RI, SD, VA, WA, WI] Name of Applicant (please print)
             </p>
 
-            <p> ________________________________ Signature</p>
+            <p>     _ Signature</p>
 
-            <p> Date: ___________________________</p>
+            <p> Date:   __</p>
 
             <p>
               Explanation of any negative responses (Refer to Question Number):
@@ -7680,8 +7665,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -8050,7 +8033,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -8196,7 +8179,7 @@ const TextSection = () => {
 
 <p>Schedule 1-General Release  Schedule 2-Nondisclosure and Non-Competition Agreement  Schedule 3-Unlimited Guaranty and Assumption of Obligations  Schedule 4-Lease Addendum  Schedule 5-ACH Payment Agreement  Schedule 6-Holders of Legal or Beneficial Interest in Franchisee; Officers; Directors  Schedule 7-State Addenda to the Franchise Agreement</p>
 
-<p> This Franchise Agreement made this _____ day of _____________, 20___, is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and _______________________________, an individual/partnership/corporation/limited liability company established in the State of ______________________ and whose principal address is _________________ ____________________________________ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This Franchise Agreement made this  __ day of     _, 20 , is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and     , an individual/partnership/corporation/limited liability company established in the State of   and whose principal address is      __      __ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -8274,7 +8257,7 @@ const TextSection = () => {
 
 <p>2.4 Territory</p>
 
-<p> The territory which is hereby granted to Franchisee shall be ___________________, at _________________________________________________ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
+<p> The territory which is hereby granted to Franchisee shall be       _, at    __ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
 
 <p>We would not normally have occasion to approve relocation of the franchised business because you will work from your home and a vehicle.</p>
 
@@ -9016,19 +8999,19 @@ const TextSection = () => {
 
 <p>SCHEDULE 1 TO THE FRANCHISE AGREEMENT GENERAL RELEASE</p>
 
-<p> THIS RELEASE is made and given by _____________________________________________, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
+<p> THIS RELEASE is made and given by   _, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
 
 <p>Releasor and Our Maids Franchise, Inc. (Releasee) are parties to one or more franchise agreements.</p>
 
 <p>The following consideration is given:</p>
 
-<p>_______ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
+<p>  _ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
 
-<p>_______________________________________________________ [insert description]</p>
+<p>     __ [insert description]</p>
 
 <p>Release- Franchisee and all of Franchisee&rsquo;s guarantors, members, officers, directors, employees, agents, successors, assigns and affiliates fully and finally release and forever discharge Releasee, its past and present agents, employees, officers, directors, members, Franchisees, successors, assigns and affiliates (collectively &ldquo;Released Parties&rdquo;) from any and all claims, actions, causes of action, contractual rights, demands, damages, costs, loss of services, expenses and compensation which Franchisee could assert against Released Parties or any of them up through and including the date of this Release.</p>
 
@@ -9044,17 +9027,17 @@ const TextSection = () => {
 
 <p> Releasor: Releasee:  Our Maids Franchise, Inc.</p>
 
-<p> By:_______________________________ By:_______________________________  Antonio Moreno, CEO</p>
+<p> By:     By:      Antonio Moreno, CEO</p>
 
-<p>Printed Name:_______________________ Date:______________________________</p>
+<p>Printed Name: _ Date:   __</p>
 
-<p> Title:______________________________ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
+<p> Title:   __ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
 
-<p> This &ldquo;Agreement&rdquo; made as of the ____ day of _____________, 20____, is by and between______ _________, (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and ________________________________________(&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This &ldquo;Agreement&rdquo; made as of the  _ day of     _, 20 _, is by and between      , (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and        (&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>W I T N E S S E T H:</p>
 
-<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated _______________, 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
+<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated      , 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
 
 <p> WHEREAS, Franchisee desires Individual to have access to and review certain Trade Secrets and other Confidential Information, which are more particularly described below; and</p>
 
@@ -9154,7 +9137,7 @@ const TextSection = () => {
 
 <p>SCHEDULE 3 TO THE FRANCHISE AGREEMENT UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS</p>
 
-<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of____________, 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated ____________ herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
+<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of    , 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated      herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
 
 <p> Each of the undersigned consents and agrees that: (a) its direct and immediate liability under this Guaranty shall be joint and several; (b) it shall render any payment or performance required under the Agreement upon demand if Franchisee fails or refuses punctually to do so; (c) such liability shall not be contingent or conditioned upon pursuit by Franchisor of any remedies against Franchisee or any other person or entity; and (d) such liability shall not be diminished, relieved or otherwise affected by any extension of time, credit or other indulgence which Franchisor may from time to time grant to Franchisee or to any other person including, without limitation, the acceptance of any partial payment or performance, or the compromise or release of any claims, none of which shall in any way modify or amend this Guaranty, which shall be continuing and irrevocable during the term of the Agreement.</p>
 
@@ -9304,9 +9287,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -9322,9 +9305,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -9342,9 +9325,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MINNESOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -9370,9 +9353,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p>NORTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -9394,9 +9377,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -9408,9 +9391,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>SOUTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -9422,9 +9405,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>WASHINGTON ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -9452,9 +9435,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -9466,9 +9449,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> EXHIBIT D TO THE FRANCHISE DISCLOSURE DOCUMENT</p>
 
@@ -9496,7 +9479,7 @@ const TextSection = () => {
 
 <p> OUR MAIDS FRANCHISE, INC.  AREA DEVELOPMENT AGREEMENT</p>
 
-<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and ___________________________ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
+<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and   __ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -9536,11 +9519,11 @@ const TextSection = () => {
 
 <p></p>
 
-<p> By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p> By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Developer     ________________________________  By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p>  Developer         _  By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Guarantors   By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________</p>
+<p>  Guarantors   By:       Name:   _   Date:   __       By:       Name:   _   Date:   __       By:       Name:   _   Date:   __</p>
 
 <p>APPENDIX A</p>
 
@@ -9568,9 +9551,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -9588,9 +9571,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> MINNESOTA ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -9614,9 +9597,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p></p>
 
@@ -9644,9 +9627,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p></p>
 
@@ -9702,9 +9685,9 @@ const TextSection = () => {
 
 <p> By signing below, you are representing that you have responded truthfully to the above questions. [Not to be signed as to any franchise sale in or to residents of CA, HI, IL, IN, MD, MI, MN, NY, ND, RI, SD, VA, WA, WI]    Name of Applicant (please print)</p>
 
-<p> ________________________________   Signature</p>
+<p>     _   Signature</p>
 
-<p>  Date: ___________________________</p>
+<p>  Date:   __</p>
 
 <p>Explanation of any negative responses (Refer to Question Number):</p>
 
@@ -9988,8 +9971,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -10358,7 +10339,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -10504,7 +10485,7 @@ const TextSection = () => {
 
 <p>Schedule 1-General Release  Schedule 2-Nondisclosure and Non-Competition Agreement  Schedule 3-Unlimited Guaranty and Assumption of Obligations  Schedule 4-Lease Addendum  Schedule 5-ACH Payment Agreement  Schedule 6-Holders of Legal or Beneficial Interest in Franchisee; Officers; Directors  Schedule 7-State Addenda to the Franchise Agreement</p>
 
-<p> This Franchise Agreement made this _____ day of _____________, 20___, is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and _______________________________, an individual/partnership/corporation/limited liability company established in the State of ______________________ and whose principal address is _________________ ____________________________________ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This Franchise Agreement made this  __ day of     _, 20 , is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and     , an individual/partnership/corporation/limited liability company established in the State of   and whose principal address is      __      __ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -10582,7 +10563,7 @@ const TextSection = () => {
 
 <p>2.4 Territory</p>
 
-<p> The territory which is hereby granted to Franchisee shall be ___________________, at _________________________________________________ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
+<p> The territory which is hereby granted to Franchisee shall be       _, at    __ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
 
 <p>We would not normally have occasion to approve relocation of the franchised business because you will work from your home and a vehicle.</p>
 
@@ -11324,19 +11305,19 @@ const TextSection = () => {
 
 <p>SCHEDULE 1 TO THE FRANCHISE AGREEMENT GENERAL RELEASE</p>
 
-<p> THIS RELEASE is made and given by _____________________________________________, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
+<p> THIS RELEASE is made and given by   _, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
 
 <p>Releasor and Our Maids Franchise, Inc. (Releasee) are parties to one or more franchise agreements.</p>
 
 <p>The following consideration is given:</p>
 
-<p>_______ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
+<p>  _ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
 
-<p>_______________________________________________________ [insert description]</p>
+<p>     __ [insert description]</p>
 
 <p>Release- Franchisee and all of Franchisee&rsquo;s guarantors, members, officers, directors, employees, agents, successors, assigns and affiliates fully and finally release and forever discharge Releasee, its past and present agents, employees, officers, directors, members, Franchisees, successors, assigns and affiliates (collectively &ldquo;Released Parties&rdquo;) from any and all claims, actions, causes of action, contractual rights, demands, damages, costs, loss of services, expenses and compensation which Franchisee could assert against Released Parties or any of them up through and including the date of this Release.</p>
 
@@ -11352,17 +11333,17 @@ const TextSection = () => {
 
 <p> Releasor: Releasee:  Our Maids Franchise, Inc.</p>
 
-<p> By:_______________________________ By:_______________________________  Antonio Moreno, CEO</p>
+<p> By:     By:      Antonio Moreno, CEO</p>
 
-<p>Printed Name:_______________________ Date:______________________________</p>
+<p>Printed Name: _ Date:   __</p>
 
-<p> Title:______________________________ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
+<p> Title:   __ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
 
-<p> This &ldquo;Agreement&rdquo; made as of the ____ day of _____________, 20____, is by and between______ _________, (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and ________________________________________(&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This &ldquo;Agreement&rdquo; made as of the  _ day of     _, 20 _, is by and between      , (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and        (&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>W I T N E S S E T H:</p>
 
-<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated _______________, 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
+<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated      , 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
 
 <p> WHEREAS, Franchisee desires Individual to have access to and review certain Trade Secrets and other Confidential Information, which are more particularly described below; and</p>
 
@@ -11462,7 +11443,7 @@ const TextSection = () => {
 
 <p>SCHEDULE 3 TO THE FRANCHISE AGREEMENT UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS</p>
 
-<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of____________, 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated ____________ herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
+<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of    , 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated      herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
 
 <p> Each of the undersigned consents and agrees that: (a) its direct and immediate liability under this Guaranty shall be joint and several; (b) it shall render any payment or performance required under the Agreement upon demand if Franchisee fails or refuses punctually to do so; (c) such liability shall not be contingent or conditioned upon pursuit by Franchisor of any remedies against Franchisee or any other person or entity; and (d) such liability shall not be diminished, relieved or otherwise affected by any extension of time, credit or other indulgence which Franchisor may from time to time grant to Franchisee or to any other person including, without limitation, the acceptance of any partial payment or performance, or the compromise or release of any claims, none of which shall in any way modify or amend this Guaranty, which shall be continuing and irrevocable during the term of the Agreement.</p>
 
@@ -11612,9 +11593,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -11630,9 +11611,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -11650,9 +11631,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MINNESOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -11678,9 +11659,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p>NORTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -11702,9 +11683,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -11716,9 +11697,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>SOUTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -11730,9 +11711,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>WASHINGTON ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -11760,9 +11741,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -11774,9 +11755,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> EXHIBIT D TO THE FRANCHISE DISCLOSURE DOCUMENT</p>
 
@@ -11804,7 +11785,7 @@ const TextSection = () => {
 
 <p> OUR MAIDS FRANCHISE, INC.  AREA DEVELOPMENT AGREEMENT</p>
 
-<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and ___________________________ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
+<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and   __ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -11844,11 +11825,11 @@ const TextSection = () => {
 
 <p></p>
 
-<p> By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p> By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Developer     ________________________________  By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p>  Developer         _  By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Guarantors   By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________</p>
+<p>  Guarantors   By:       Name:   _   Date:   __       By:       Name:   _   Date:   __       By:       Name:   _   Date:   __</p>
 
 <p>APPENDIX A</p>
 
@@ -11876,9 +11857,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -11896,9 +11877,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> MINNESOTA ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -11922,9 +11903,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p></p>
 
@@ -11952,9 +11933,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p></p>
 
@@ -12010,9 +11991,9 @@ const TextSection = () => {
 
 <p> By signing below, you are representing that you have responded truthfully to the above questions. [Not to be signed as to any franchise sale in or to residents of CA, HI, IL, IN, MD, MI, MN, NY, ND, RI, SD, VA, WA, WI]    Name of Applicant (please print)</p>
 
-<p> ________________________________   Signature</p>
+<p>     _   Signature</p>
 
-<p>  Date: ___________________________</p>
+<p>  Date:   __</p>
 
 <p>Explanation of any negative responses (Refer to Question Number):</p>
 
@@ -12296,8 +12277,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -12666,7 +12645,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -12812,7 +12791,7 @@ const TextSection = () => {
 
 <p>Schedule 1-General Release  Schedule 2-Nondisclosure and Non-Competition Agreement  Schedule 3-Unlimited Guaranty and Assumption of Obligations  Schedule 4-Lease Addendum  Schedule 5-ACH Payment Agreement  Schedule 6-Holders of Legal or Beneficial Interest in Franchisee; Officers; Directors  Schedule 7-State Addenda to the Franchise Agreement</p>
 
-<p> This Franchise Agreement made this _____ day of _____________, 20___, is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and _______________________________, an individual/partnership/corporation/limited liability company established in the State of ______________________ and whose principal address is _________________ ____________________________________ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This Franchise Agreement made this  __ day of     _, 20 , is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and     , an individual/partnership/corporation/limited liability company established in the State of   and whose principal address is      __      __ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -12890,7 +12869,7 @@ const TextSection = () => {
 
 <p>2.4 Territory</p>
 
-<p> The territory which is hereby granted to Franchisee shall be ___________________, at _________________________________________________ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
+<p> The territory which is hereby granted to Franchisee shall be       _, at    __ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
 
 <p>We would not normally have occasion to approve relocation of the franchised business because you will work from your home and a vehicle.</p>
 
@@ -13632,19 +13611,19 @@ const TextSection = () => {
 
 <p>SCHEDULE 1 TO THE FRANCHISE AGREEMENT GENERAL RELEASE</p>
 
-<p> THIS RELEASE is made and given by _____________________________________________, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
+<p> THIS RELEASE is made and given by   _, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
 
 <p>Releasor and Our Maids Franchise, Inc. (Releasee) are parties to one or more franchise agreements.</p>
 
 <p>The following consideration is given:</p>
 
-<p>_______ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
+<p>  _ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
 
-<p>_______________________________________________________ [insert description]</p>
+<p>     __ [insert description]</p>
 
 <p>Release- Franchisee and all of Franchisee&rsquo;s guarantors, members, officers, directors, employees, agents, successors, assigns and affiliates fully and finally release and forever discharge Releasee, its past and present agents, employees, officers, directors, members, Franchisees, successors, assigns and affiliates (collectively &ldquo;Released Parties&rdquo;) from any and all claims, actions, causes of action, contractual rights, demands, damages, costs, loss of services, expenses and compensation which Franchisee could assert against Released Parties or any of them up through and including the date of this Release.</p>
 
@@ -13660,17 +13639,17 @@ const TextSection = () => {
 
 <p> Releasor: Releasee:  Our Maids Franchise, Inc.</p>
 
-<p> By:_______________________________ By:_______________________________  Antonio Moreno, CEO</p>
+<p> By:     By:      Antonio Moreno, CEO</p>
 
-<p>Printed Name:_______________________ Date:______________________________</p>
+<p>Printed Name: _ Date:   __</p>
 
-<p> Title:______________________________ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
+<p> Title:   __ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
 
-<p> This &ldquo;Agreement&rdquo; made as of the ____ day of _____________, 20____, is by and between______ _________, (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and ________________________________________(&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This &ldquo;Agreement&rdquo; made as of the  _ day of     _, 20 _, is by and between      , (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and        (&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>W I T N E S S E T H:</p>
 
-<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated _______________, 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
+<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated      , 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
 
 <p> WHEREAS, Franchisee desires Individual to have access to and review certain Trade Secrets and other Confidential Information, which are more particularly described below; and</p>
 
@@ -13770,7 +13749,7 @@ const TextSection = () => {
 
 <p>SCHEDULE 3 TO THE FRANCHISE AGREEMENT UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS</p>
 
-<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of____________, 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated ____________ herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
+<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of    , 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated      herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
 
 <p> Each of the undersigned consents and agrees that: (a) its direct and immediate liability under this Guaranty shall be joint and several; (b) it shall render any payment or performance required under the Agreement upon demand if Franchisee fails or refuses punctually to do so; (c) such liability shall not be contingent or conditioned upon pursuit by Franchisor of any remedies against Franchisee or any other person or entity; and (d) such liability shall not be diminished, relieved or otherwise affected by any extension of time, credit or other indulgence which Franchisor may from time to time grant to Franchisee or to any other person including, without limitation, the acceptance of any partial payment or performance, or the compromise or release of any claims, none of which shall in any way modify or amend this Guaranty, which shall be continuing and irrevocable during the term of the Agreement.</p>
 
@@ -13920,9 +13899,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -13938,9 +13917,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -13958,9 +13937,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MINNESOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -13986,9 +13965,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p>NORTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -14010,9 +13989,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -14024,9 +14003,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>SOUTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -14038,9 +14017,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>WASHINGTON ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -14068,9 +14047,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -14082,9 +14061,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> EXHIBIT D TO THE FRANCHISE DISCLOSURE DOCUMENT</p>
 
@@ -14112,7 +14091,7 @@ const TextSection = () => {
 
 <p> OUR MAIDS FRANCHISE, INC.  AREA DEVELOPMENT AGREEMENT</p>
 
-<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and ___________________________ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
+<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and   __ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -14152,11 +14131,11 @@ const TextSection = () => {
 
 <p></p>
 
-<p> By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p> By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Developer     ________________________________  By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p>  Developer         _  By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Guarantors   By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________</p>
+<p>  Guarantors   By:       Name:   _   Date:   __       By:       Name:   _   Date:   __       By:       Name:   _   Date:   __</p>
 
 <p>APPENDIX A</p>
 
@@ -14184,9 +14163,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -14204,9 +14183,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> MINNESOTA ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -14230,9 +14209,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p></p>
 
@@ -14260,9 +14239,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p></p>
 
@@ -14318,9 +14297,9 @@ const TextSection = () => {
 
 <p> By signing below, you are representing that you have responded truthfully to the above questions. [Not to be signed as to any franchise sale in or to residents of CA, HI, IL, IN, MD, MI, MN, NY, ND, RI, SD, VA, WA, WI]    Name of Applicant (please print)</p>
 
-<p> ________________________________   Signature</p>
+<p>     _   Signature</p>
 
-<p>  Date: ___________________________</p>
+<p>  Date:   __</p>
 
 <p>Explanation of any negative responses (Refer to Question Number):</p>
 
@@ -14604,8 +14583,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -14974,7 +14951,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -15120,7 +15097,7 @@ const TextSection = () => {
 
 <p>Schedule 1-General Release  Schedule 2-Nondisclosure and Non-Competition Agreement  Schedule 3-Unlimited Guaranty and Assumption of Obligations  Schedule 4-Lease Addendum  Schedule 5-ACH Payment Agreement  Schedule 6-Holders of Legal or Beneficial Interest in Franchisee; Officers; Directors  Schedule 7-State Addenda to the Franchise Agreement</p>
 
-<p> This Franchise Agreement made this _____ day of _____________, 20___, is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and _______________________________, an individual/partnership/corporation/limited liability company established in the State of ______________________ and whose principal address is _________________ ____________________________________ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This Franchise Agreement made this  __ day of     _, 20 , is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and     , an individual/partnership/corporation/limited liability company established in the State of   and whose principal address is      __      __ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -15198,7 +15175,7 @@ const TextSection = () => {
 
 <p>2.4 Territory</p>
 
-<p> The territory which is hereby granted to Franchisee shall be ___________________, at _________________________________________________ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
+<p> The territory which is hereby granted to Franchisee shall be       _, at    __ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
 
 <p>We would not normally have occasion to approve relocation of the franchised business because you will work from your home and a vehicle.</p>
 
@@ -15940,19 +15917,19 @@ const TextSection = () => {
 
 <p>SCHEDULE 1 TO THE FRANCHISE AGREEMENT GENERAL RELEASE</p>
 
-<p> THIS RELEASE is made and given by _____________________________________________, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
+<p> THIS RELEASE is made and given by   _, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
 
 <p>Releasor and Our Maids Franchise, Inc. (Releasee) are parties to one or more franchise agreements.</p>
 
 <p>The following consideration is given:</p>
 
-<p>_______ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
+<p>  _ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
 
-<p>_______________________________________________________ [insert description]</p>
+<p>     __ [insert description]</p>
 
 <p>Release- Franchisee and all of Franchisee&rsquo;s guarantors, members, officers, directors, employees, agents, successors, assigns and affiliates fully and finally release and forever discharge Releasee, its past and present agents, employees, officers, directors, members, Franchisees, successors, assigns and affiliates (collectively &ldquo;Released Parties&rdquo;) from any and all claims, actions, causes of action, contractual rights, demands, damages, costs, loss of services, expenses and compensation which Franchisee could assert against Released Parties or any of them up through and including the date of this Release.</p>
 
@@ -15968,17 +15945,17 @@ const TextSection = () => {
 
 <p> Releasor: Releasee:  Our Maids Franchise, Inc.</p>
 
-<p> By:_______________________________ By:_______________________________  Antonio Moreno, CEO</p>
+<p> By:     By:      Antonio Moreno, CEO</p>
 
-<p>Printed Name:_______________________ Date:______________________________</p>
+<p>Printed Name: _ Date:   __</p>
 
-<p> Title:______________________________ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
+<p> Title:   __ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
 
-<p> This &ldquo;Agreement&rdquo; made as of the ____ day of _____________, 20____, is by and between______ _________, (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and ________________________________________(&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This &ldquo;Agreement&rdquo; made as of the  _ day of     _, 20 _, is by and between      , (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and        (&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>W I T N E S S E T H:</p>
 
-<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated _______________, 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
+<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated      , 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
 
 <p> WHEREAS, Franchisee desires Individual to have access to and review certain Trade Secrets and other Confidential Information, which are more particularly described below; and</p>
 
@@ -16078,7 +16055,7 @@ const TextSection = () => {
 
 <p>SCHEDULE 3 TO THE FRANCHISE AGREEMENT UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS</p>
 
-<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of____________, 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated ____________ herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
+<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of    , 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated      herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
 
 <p> Each of the undersigned consents and agrees that: (a) its direct and immediate liability under this Guaranty shall be joint and several; (b) it shall render any payment or performance required under the Agreement upon demand if Franchisee fails or refuses punctually to do so; (c) such liability shall not be contingent or conditioned upon pursuit by Franchisor of any remedies against Franchisee or any other person or entity; and (d) such liability shall not be diminished, relieved or otherwise affected by any extension of time, credit or other indulgence which Franchisor may from time to time grant to Franchisee or to any other person including, without limitation, the acceptance of any partial payment or performance, or the compromise or release of any claims, none of which shall in any way modify or amend this Guaranty, which shall be continuing and irrevocable during the term of the Agreement.</p>
 
@@ -16228,9 +16205,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -16246,9 +16223,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -16266,9 +16243,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MINNESOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -16294,9 +16271,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p>NORTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -16318,9 +16295,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -16332,9 +16309,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>SOUTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -16346,9 +16323,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>WASHINGTON ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -16376,9 +16353,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -16390,9 +16367,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> EXHIBIT D TO THE FRANCHISE DISCLOSURE DOCUMENT</p>
 
@@ -16420,7 +16397,7 @@ const TextSection = () => {
 
 <p> OUR MAIDS FRANCHISE, INC.  AREA DEVELOPMENT AGREEMENT</p>
 
-<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and ___________________________ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
+<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and   __ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -16460,11 +16437,11 @@ const TextSection = () => {
 
 <p></p>
 
-<p> By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p> By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Developer     ________________________________  By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p>  Developer         _  By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Guarantors   By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________</p>
+<p>  Guarantors   By:       Name:   _   Date:   __       By:       Name:   _   Date:   __       By:       Name:   _   Date:   __</p>
 
 <p>APPENDIX A</p>
 
@@ -16492,9 +16469,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -16512,9 +16489,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> MINNESOTA ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -16538,9 +16515,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p></p>
 
@@ -16568,9 +16545,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p></p>
 
@@ -16626,9 +16603,9 @@ const TextSection = () => {
 
 <p> By signing below, you are representing that you have responded truthfully to the above questions. [Not to be signed as to any franchise sale in or to residents of CA, HI, IL, IN, MD, MI, MN, NY, ND, RI, SD, VA, WA, WI]    Name of Applicant (please print)</p>
 
-<p> ________________________________   Signature</p>
+<p>     _   Signature</p>
 
-<p>  Date: ___________________________</p>
+<p>  Date:   __</p>
 
 <p>Explanation of any negative responses (Refer to Question Number):</p>
 
@@ -16912,8 +16889,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -17282,7 +17257,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -17428,7 +17403,7 @@ const TextSection = () => {
 
 <p>Schedule 1-General Release  Schedule 2-Nondisclosure and Non-Competition Agreement  Schedule 3-Unlimited Guaranty and Assumption of Obligations  Schedule 4-Lease Addendum  Schedule 5-ACH Payment Agreement  Schedule 6-Holders of Legal or Beneficial Interest in Franchisee; Officers; Directors  Schedule 7-State Addenda to the Franchise Agreement</p>
 
-<p> This Franchise Agreement made this _____ day of _____________, 20___, is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and _______________________________, an individual/partnership/corporation/limited liability company established in the State of ______________________ and whose principal address is _________________ ____________________________________ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This Franchise Agreement made this  __ day of     _, 20 , is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and     , an individual/partnership/corporation/limited liability company established in the State of   and whose principal address is      __      __ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -17506,7 +17481,7 @@ const TextSection = () => {
 
 <p>2.4 Territory</p>
 
-<p> The territory which is hereby granted to Franchisee shall be ___________________, at _________________________________________________ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
+<p> The territory which is hereby granted to Franchisee shall be       _, at    __ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
 
 <p>We would not normally have occasion to approve relocation of the franchised business because you will work from your home and a vehicle.</p>
 
@@ -18248,19 +18223,19 @@ const TextSection = () => {
 
 <p>SCHEDULE 1 TO THE FRANCHISE AGREEMENT GENERAL RELEASE</p>
 
-<p> THIS RELEASE is made and given by _____________________________________________, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
+<p> THIS RELEASE is made and given by   _, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
 
 <p>Releasor and Our Maids Franchise, Inc. (Releasee) are parties to one or more franchise agreements.</p>
 
 <p>The following consideration is given:</p>
 
-<p>_______ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
+<p>  _ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
 
-<p>_______________________________________________________ [insert description]</p>
+<p>     __ [insert description]</p>
 
 <p>Release- Franchisee and all of Franchisee&rsquo;s guarantors, members, officers, directors, employees, agents, successors, assigns and affiliates fully and finally release and forever discharge Releasee, its past and present agents, employees, officers, directors, members, Franchisees, successors, assigns and affiliates (collectively &ldquo;Released Parties&rdquo;) from any and all claims, actions, causes of action, contractual rights, demands, damages, costs, loss of services, expenses and compensation which Franchisee could assert against Released Parties or any of them up through and including the date of this Release.</p>
 
@@ -18276,17 +18251,17 @@ const TextSection = () => {
 
 <p> Releasor: Releasee:  Our Maids Franchise, Inc.</p>
 
-<p> By:_______________________________ By:_______________________________  Antonio Moreno, CEO</p>
+<p> By:     By:      Antonio Moreno, CEO</p>
 
-<p>Printed Name:_______________________ Date:______________________________</p>
+<p>Printed Name: _ Date:   __</p>
 
-<p> Title:______________________________ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
+<p> Title:   __ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
 
-<p> This &ldquo;Agreement&rdquo; made as of the ____ day of _____________, 20____, is by and between______ _________, (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and ________________________________________(&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This &ldquo;Agreement&rdquo; made as of the  _ day of     _, 20 _, is by and between      , (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and        (&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>W I T N E S S E T H:</p>
 
-<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated _______________, 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
+<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated      , 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
 
 <p> WHEREAS, Franchisee desires Individual to have access to and review certain Trade Secrets and other Confidential Information, which are more particularly described below; and</p>
 
@@ -18386,7 +18361,7 @@ const TextSection = () => {
 
 <p>SCHEDULE 3 TO THE FRANCHISE AGREEMENT UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS</p>
 
-<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of____________, 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated ____________ herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
+<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of    , 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated      herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
 
 <p> Each of the undersigned consents and agrees that: (a) its direct and immediate liability under this Guaranty shall be joint and several; (b) it shall render any payment or performance required under the Agreement upon demand if Franchisee fails or refuses punctually to do so; (c) such liability shall not be contingent or conditioned upon pursuit by Franchisor of any remedies against Franchisee or any other person or entity; and (d) such liability shall not be diminished, relieved or otherwise affected by any extension of time, credit or other indulgence which Franchisor may from time to time grant to Franchisee or to any other person including, without limitation, the acceptance of any partial payment or performance, or the compromise or release of any claims, none of which shall in any way modify or amend this Guaranty, which shall be continuing and irrevocable during the term of the Agreement.</p>
 
@@ -18536,9 +18511,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -18554,9 +18529,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -18574,9 +18549,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MINNESOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -18602,9 +18577,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p>NORTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -18626,9 +18601,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -18640,9 +18615,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>SOUTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -18654,9 +18629,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>WASHINGTON ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -18684,9 +18659,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -18698,9 +18673,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> EXHIBIT D TO THE FRANCHISE DISCLOSURE DOCUMENT</p>
 
@@ -18728,7 +18703,7 @@ const TextSection = () => {
 
 <p> OUR MAIDS FRANCHISE, INC.  AREA DEVELOPMENT AGREEMENT</p>
 
-<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and ___________________________ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
+<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and   __ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -18768,11 +18743,11 @@ const TextSection = () => {
 
 <p></p>
 
-<p> By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p> By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Developer     ________________________________  By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p>  Developer         _  By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Guarantors   By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________</p>
+<p>  Guarantors   By:       Name:   _   Date:   __       By:       Name:   _   Date:   __       By:       Name:   _   Date:   __</p>
 
 <p>APPENDIX A</p>
 
@@ -18800,9 +18775,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -18820,9 +18795,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> MINNESOTA ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -18846,9 +18821,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p></p>
 
@@ -18876,9 +18851,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p></p>
 
@@ -18934,9 +18909,9 @@ const TextSection = () => {
 
 <p> By signing below, you are representing that you have responded truthfully to the above questions. [Not to be signed as to any franchise sale in or to residents of CA, HI, IL, IN, MD, MI, MN, NY, ND, RI, SD, VA, WA, WI]    Name of Applicant (please print)</p>
 
-<p> ________________________________   Signature</p>
+<p>     _   Signature</p>
 
-<p>  Date: ___________________________</p>
+<p>  Date:   __</p>
 
 <p>Explanation of any negative responses (Refer to Question Number):</p>
 
@@ -19220,8 +19195,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -19590,7 +19563,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -19736,7 +19709,7 @@ const TextSection = () => {
 
 <p>Schedule 1-General Release  Schedule 2-Nondisclosure and Non-Competition Agreement  Schedule 3-Unlimited Guaranty and Assumption of Obligations  Schedule 4-Lease Addendum  Schedule 5-ACH Payment Agreement  Schedule 6-Holders of Legal or Beneficial Interest in Franchisee; Officers; Directors  Schedule 7-State Addenda to the Franchise Agreement</p>
 
-<p> This Franchise Agreement made this _____ day of _____________, 20___, is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and _______________________________, an individual/partnership/corporation/limited liability company established in the State of ______________________ and whose principal address is _________________ ____________________________________ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This Franchise Agreement made this  __ day of     _, 20 , is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and     , an individual/partnership/corporation/limited liability company established in the State of   and whose principal address is      __      __ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -19814,7 +19787,7 @@ const TextSection = () => {
 
 <p>2.4 Territory</p>
 
-<p> The territory which is hereby granted to Franchisee shall be ___________________, at _________________________________________________ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
+<p> The territory which is hereby granted to Franchisee shall be       _, at    __ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
 
 <p>We would not normally have occasion to approve relocation of the franchised business because you will work from your home and a vehicle.</p>
 
@@ -20556,19 +20529,19 @@ const TextSection = () => {
 
 <p>SCHEDULE 1 TO THE FRANCHISE AGREEMENT GENERAL RELEASE</p>
 
-<p> THIS RELEASE is made and given by _____________________________________________, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
+<p> THIS RELEASE is made and given by   _, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
 
 <p>Releasor and Our Maids Franchise, Inc. (Releasee) are parties to one or more franchise agreements.</p>
 
 <p>The following consideration is given:</p>
 
-<p>_______ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
+<p>  _ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
 
-<p>_______________________________________________________ [insert description]</p>
+<p>     __ [insert description]</p>
 
 <p>Release- Franchisee and all of Franchisee&rsquo;s guarantors, members, officers, directors, employees, agents, successors, assigns and affiliates fully and finally release and forever discharge Releasee, its past and present agents, employees, officers, directors, members, Franchisees, successors, assigns and affiliates (collectively &ldquo;Released Parties&rdquo;) from any and all claims, actions, causes of action, contractual rights, demands, damages, costs, loss of services, expenses and compensation which Franchisee could assert against Released Parties or any of them up through and including the date of this Release.</p>
 
@@ -20584,17 +20557,17 @@ const TextSection = () => {
 
 <p> Releasor: Releasee:  Our Maids Franchise, Inc.</p>
 
-<p> By:_______________________________ By:_______________________________  Antonio Moreno, CEO</p>
+<p> By:     By:      Antonio Moreno, CEO</p>
 
-<p>Printed Name:_______________________ Date:______________________________</p>
+<p>Printed Name: _ Date:   __</p>
 
-<p> Title:______________________________ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
+<p> Title:   __ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
 
-<p> This &ldquo;Agreement&rdquo; made as of the ____ day of _____________, 20____, is by and between______ _________, (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and ________________________________________(&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This &ldquo;Agreement&rdquo; made as of the  _ day of     _, 20 _, is by and between      , (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and        (&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>W I T N E S S E T H:</p>
 
-<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated _______________, 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
+<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated      , 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
 
 <p> WHEREAS, Franchisee desires Individual to have access to and review certain Trade Secrets and other Confidential Information, which are more particularly described below; and</p>
 
@@ -20694,7 +20667,7 @@ const TextSection = () => {
 
 <p>SCHEDULE 3 TO THE FRANCHISE AGREEMENT UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS</p>
 
-<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of____________, 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated ____________ herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
+<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of    , 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated      herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
 
 <p> Each of the undersigned consents and agrees that: (a) its direct and immediate liability under this Guaranty shall be joint and several; (b) it shall render any payment or performance required under the Agreement upon demand if Franchisee fails or refuses punctually to do so; (c) such liability shall not be contingent or conditioned upon pursuit by Franchisor of any remedies against Franchisee or any other person or entity; and (d) such liability shall not be diminished, relieved or otherwise affected by any extension of time, credit or other indulgence which Franchisor may from time to time grant to Franchisee or to any other person including, without limitation, the acceptance of any partial payment or performance, or the compromise or release of any claims, none of which shall in any way modify or amend this Guaranty, which shall be continuing and irrevocable during the term of the Agreement.</p>
 
@@ -20844,9 +20817,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -20862,9 +20835,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -20882,9 +20855,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MINNESOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -20910,9 +20883,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p>NORTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -20934,9 +20907,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -20948,9 +20921,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>SOUTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -20962,9 +20935,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>WASHINGTON ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -20992,9 +20965,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -21006,9 +20979,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> EXHIBIT D TO THE FRANCHISE DISCLOSURE DOCUMENT</p>
 
@@ -21036,7 +21009,7 @@ const TextSection = () => {
 
 <p> OUR MAIDS FRANCHISE, INC.  AREA DEVELOPMENT AGREEMENT</p>
 
-<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and ___________________________ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
+<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and   __ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -21076,11 +21049,11 @@ const TextSection = () => {
 
 <p></p>
 
-<p> By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p> By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Developer     ________________________________  By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p>  Developer         _  By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Guarantors   By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________</p>
+<p>  Guarantors   By:       Name:   _   Date:   __       By:       Name:   _   Date:   __       By:       Name:   _   Date:   __</p>
 
 <p>APPENDIX A</p>
 
@@ -21108,9 +21081,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -21128,9 +21101,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> MINNESOTA ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -21154,9 +21127,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p></p>
 
@@ -21184,9 +21157,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p></p>
 
@@ -21242,9 +21215,9 @@ const TextSection = () => {
 
 <p> By signing below, you are representing that you have responded truthfully to the above questions. [Not to be signed as to any franchise sale in or to residents of CA, HI, IL, IN, MD, MI, MN, NY, ND, RI, SD, VA, WA, WI]    Name of Applicant (please print)</p>
 
-<p> ________________________________   Signature</p>
+<p>     _   Signature</p>
 
-<p>  Date: ___________________________</p>
+<p>  Date:   __</p>
 
 <p>Explanation of any negative responses (Refer to Question Number):</p>
 
@@ -21528,8 +21501,6 @@ const TextSection = () => {
 
 <p> 3. Financial Condition. The Franchisor&rsquo;s financial condition as reflected in its financial statements (see Item 21) calls into question the Franchisor&rsquo;s financial ability to provide services and support to you.</p>
 
-<p> 4. Unregistered Trademark. The primary trademark that you will use in your business is not federally registered. If the Franchisor&rsquo;s ability to use this trademark in your area is challenged, you may have to identify your business and its products/services by a different name. This change can be expensive and may reduce brand recognition of the products and services you offer.</p>
-
 <p>Certain states may require other risks to be highlighted. Check the &ldquo;State Specific Addenda&rdquo; (if any) to see whether your state requires other risks to be highlighted.</p>
 
 <p>MICHIGAN ADDENDUM TO THE DISCLOSURE DOCUMENT</p>
@@ -21898,7 +21869,7 @@ const TextSection = () => {
 
 <p></p>
 
-<p>We do not have a federal registration for our principal trademark. Therefore, our trademark does not have many legal benefits and rights as a federally registered trademark. If our right to use the trademark is challenged, you may have to change to an alternative trademark, which may increase your expenses.</p>
+<p> We do not have a federal registration for our principal trademark. SERIAL/ REGISTRATION NO. 7036264: PRINCIPAL REGISTER: REGISTRATION DATE, APRIL 25, 2023.</p>
 
 <p>There are no currently effective agreements that significantly limit our rights to use or license the use of our trademarks listed in this section.</p>
 
@@ -22044,7 +22015,7 @@ const TextSection = () => {
 
 <p>Schedule 1-General Release  Schedule 2-Nondisclosure and Non-Competition Agreement  Schedule 3-Unlimited Guaranty and Assumption of Obligations  Schedule 4-Lease Addendum  Schedule 5-ACH Payment Agreement  Schedule 6-Holders of Legal or Beneficial Interest in Franchisee; Officers; Directors  Schedule 7-State Addenda to the Franchise Agreement</p>
 
-<p> This Franchise Agreement made this _____ day of _____________, 20___, is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and _______________________________, an individual/partnership/corporation/limited liability company established in the State of ______________________ and whose principal address is _________________ ____________________________________ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This Franchise Agreement made this  __ day of     _, 20 , is by and between OUR MAIDS FRANCHISE, INC.. (&ldquo;Franchisor,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and     , an individual/partnership/corporation/limited liability company established in the State of   and whose principal address is      __      __ (&ldquo;Franchisee,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -22122,7 +22093,7 @@ const TextSection = () => {
 
 <p>2.4 Territory</p>
 
-<p> The territory which is hereby granted to Franchisee shall be ___________________, at _________________________________________________ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
+<p> The territory which is hereby granted to Franchisee shall be       _, at    __ (the &ldquo;Territory&rdquo;). Franchisee shall be prohibited from operating a franchise outside of the Territory without the prior written consent of Franchisor.</p>
 
 <p>We would not normally have occasion to approve relocation of the franchised business because you will work from your home and a vehicle.</p>
 
@@ -22864,19 +22835,19 @@ const TextSection = () => {
 
 <p>SCHEDULE 1 TO THE FRANCHISE AGREEMENT GENERAL RELEASE</p>
 
-<p> THIS RELEASE is made and given by _____________________________________________, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
+<p> THIS RELEASE is made and given by   _, (&ldquo;Releasor&rdquo;) with reference to the following facts:</p>
 
 <p>Releasor and Our Maids Franchise, Inc. (Releasee) are parties to one or more franchise agreements.</p>
 
 <p>The following consideration is given:</p>
 
-<p>_______ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
+<p>  _ the execution by Releasor of a successor Franchise Agreement or other renewal documents renewing the franchise (the &ldquo;Franchise&rdquo;); or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s transfer of its rights and duties under the Franchise Agreement; or</p>
 
-<p>_______ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
+<p>  _ Releasor&rsquo;s consent to Releasee&rsquo;s assumption of rights and duties under the Franchise Agreement; or</p>
 
-<p>_______________________________________________________ [insert description]</p>
+<p>     __ [insert description]</p>
 
 <p>Release- Franchisee and all of Franchisee&rsquo;s guarantors, members, officers, directors, employees, agents, successors, assigns and affiliates fully and finally release and forever discharge Releasee, its past and present agents, employees, officers, directors, members, Franchisees, successors, assigns and affiliates (collectively &ldquo;Released Parties&rdquo;) from any and all claims, actions, causes of action, contractual rights, demands, damages, costs, loss of services, expenses and compensation which Franchisee could assert against Released Parties or any of them up through and including the date of this Release.</p>
 
@@ -22892,17 +22863,17 @@ const TextSection = () => {
 
 <p> Releasor: Releasee:  Our Maids Franchise, Inc.</p>
 
-<p> By:_______________________________ By:_______________________________  Antonio Moreno, CEO</p>
+<p> By:     By:      Antonio Moreno, CEO</p>
 
-<p>Printed Name:_______________________ Date:______________________________</p>
+<p>Printed Name: _ Date:   __</p>
 
-<p> Title:______________________________ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
+<p> Title:   __ SCHEDULE 2 TO THE FRANCHISE AGREEMENT NONDISCLOSURE AND NON-COMPETITION AGREEMENT</p>
 
-<p> This &ldquo;Agreement&rdquo; made as of the ____ day of _____________, 20____, is by and between______ _________, (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and ________________________________________(&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
+<p> This &ldquo;Agreement&rdquo; made as of the  _ day of     _, 20 _, is by and between      , (&ldquo;Franchisee,&rdquo; &ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) and        (&ldquo;Individual,&rdquo; &ldquo;you,&rdquo; or &ldquo;your&rdquo;).</p>
 
 <p>W I T N E S S E T H:</p>
 
-<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated _______________, 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
+<p> WHEREAS, Franchisee is a party to that certain Franchise Agreement dated      , 20__ (&ldquo;Franchise Agreement&rdquo;) by and between Franchisee and the Franchisor, Our Maids Franchise, Inc. (&ldquo;Company&rdquo;); and</p>
 
 <p> WHEREAS, Franchisee desires Individual to have access to and review certain Trade Secrets and other Confidential Information, which are more particularly described below; and</p>
 
@@ -23002,7 +22973,7 @@ const TextSection = () => {
 
 <p>SCHEDULE 3 TO THE FRANCHISE AGREEMENT UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS</p>
 
-<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of____________, 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated ____________ herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
+<p> THIS UNLIMITED GUARANTY AND ASSUMPTION OF OBLIGATIONS is given this day of    , 20 , by .   In consideration of, and as an inducement to, the execution of that certain Franchise Agreement dated      herewith (&ldquo;Agreement&rdquo;) by Our Maids Franchise, Inc. (&ldquo;Franchisor&rdquo;), each of the undersigned hereby personally and unconditionally guarantees to Franchisor and its successors and assigns, for the term of the Agreement and thereafter as provided in the Agreement, that (&ldquo;Franchisee&rdquo;) shall punctually pay and perform each and every undertaking, agreement and covenant in the Agreement. Each of the undersigned shall be personally bound by, and personally liable for, Franchisee&rsquo;s breach of any provision in the Agreement, including those relating to monetary obligations and obligations to take or refrain from taking specific actions or engaging in specific activities, such as those contemplated by Sections 6, 7, and 17 of the Agreement. Each of the undersigned waives: (a) acceptance and notice of acceptance by Franchisor of the foregoing undertakings; (b) notice of demand for payment of any indebtedness or non-performance of any obligations hereby guaranteed; (c) protest and notice of default to any party with respect to the indebtedness or non-performance of any obligations hereby guaranteed; (d) any right it may have to require that an action be brought against Franchisee or any other person as a condition of liability; and (e) any and all other notices and legal or equitable defenses to which it may be entitled.</p>
 
 <p> Each of the undersigned consents and agrees that: (a) its direct and immediate liability under this Guaranty shall be joint and several; (b) it shall render any payment or performance required under the Agreement upon demand if Franchisee fails or refuses punctually to do so; (c) such liability shall not be contingent or conditioned upon pursuit by Franchisor of any remedies against Franchisee or any other person or entity; and (d) such liability shall not be diminished, relieved or otherwise affected by any extension of time, credit or other indulgence which Franchisor may from time to time grant to Franchisee or to any other person including, without limitation, the acceptance of any partial payment or performance, or the compromise or release of any claims, none of which shall in any way modify or amend this Guaranty, which shall be continuing and irrevocable during the term of the Agreement.</p>
 
@@ -23152,9 +23123,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   ILLINOIS ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -23170,9 +23141,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -23190,9 +23161,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MINNESOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -23218,9 +23189,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p>NORTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -23242,9 +23213,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   RHODE ISLAND ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -23256,9 +23227,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>SOUTH DAKOTA ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -23270,9 +23241,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR:  Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>WASHINGTON ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
@@ -23300,9 +23271,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________ WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
+<p> By:  _ Date:   WISCONSIN ADDENDUM TO THE FRANCHISE AGREEMENT</p>
 
 <p>If any of the terms of the Franchise Agreement are inconsistent with the terms below, the terms below control.</p>
 
@@ -23314,9 +23285,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> EXHIBIT D TO THE FRANCHISE DISCLOSURE DOCUMENT</p>
 
@@ -23344,7 +23315,7 @@ const TextSection = () => {
 
 <p> OUR MAIDS FRANCHISE, INC.  AREA DEVELOPMENT AGREEMENT</p>
 
-<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and ___________________________ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
+<p> This Area Development Agreement (this &ldquo;Agreement&rdquo;) is made this day of , 20__ by and between Our Maids Franchise, Inc. (&ldquo;we&rdquo; or &ldquo;us&rdquo;) and   __ (&ldquo;developer&rdquo; or &ldquo;you&rdquo;).</p>
 
 <p>RECITALS</p>
 
@@ -23384,11 +23355,11 @@ const TextSection = () => {
 
 <p></p>
 
-<p> By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p> By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Developer     ________________________________  By: ____________________________   Name: __________________________   Title: ___________________________   Date: ___________________________</p>
+<p>  Developer         _  By:       Name:   _   Title:   __   Date:   __</p>
 
-<p>  Guarantors   By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________       By: ____________________________   Name: __________________________   Date: ___________________________</p>
+<p>  Guarantors   By:       Name:   _   Date:   __       By:       Name:   _   Date:   __       By:       Name:   _   Date:   __</p>
 
 <p>APPENDIX A</p>
 
@@ -23416,9 +23387,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p>MARYLAND ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -23436,9 +23407,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p> MINNESOTA ADDENDUM TO THE AREA DEVELOPMENT AGREEMENT</p>
 
@@ -23462,9 +23433,9 @@ const TextSection = () => {
 
 <p> FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p>By:__________________________ Date:_________________________</p>
+<p>By:  _ Date:  </p>
 
 <p></p>
 
@@ -23492,9 +23463,9 @@ const TextSection = () => {
 
 <p>FRANCHISEE: FRANCHISOR: Our Maids Franchise, Inc.</p>
 
-<p> By:__________________________ By:__________________________ </p>
+<p> By:  _ By:  _ </p>
 
-<p> By:__________________________ Date:_________________________</p>
+<p> By:  _ Date:  </p>
 
 <p></p>
 
@@ -23550,9 +23521,9 @@ const TextSection = () => {
 
 <p> By signing below, you are representing that you have responded truthfully to the above questions. [Not to be signed as to any franchise sale in or to residents of CA, HI, IL, IN, MD, MI, MN, NY, ND, RI, SD, VA, WA, WI]    Name of Applicant (please print)</p>
 
-<p> ________________________________   Signature</p>
+<p>     _   Signature</p>
 
-<p>  Date: ___________________________</p>
+<p>  Date:   __</p>
 
 <p>Explanation of any negative responses (Refer to Question Number):</p>
 
