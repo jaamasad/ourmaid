@@ -4,12 +4,10 @@ const Hero = () => {
   return (
     <div className="relative h-[67vh]">
       <video
-        src="/video3_new.mp4#t=0.39"
-        className="absolute inset-0 z-0 object-cover w-full h-full filter brightness-75"
+        src="/video3_new.mp4"
+        className="absolute inset-0 w-full h-full object-cover filter brightness-75 z-0"
         autoPlay
-        controls = {true}
         loop
-        preload="metadata"
       ></video>
       <div className="z-20 flex items-center justify-center">
         <div className="flex items-center justify-center flex-col z-20 py-4 md:py-6  px-4 md:px-8  text-white rounded-[15px] absolute mt-[800px] lg:mt-[755px] w-[85%] lg:w-[1000px] mx-auto bg-black opacity-75">
