@@ -52,6 +52,7 @@ defmodule Ourmaid.MixProject do
       {:plug_cowboy, "~> 2.5"},
       {:gen_smtp, "~> 1.1"},
       {:hackney, "~> 1.9"},
+      {:cors_plug, "~> 3.0"}
 
     ]
   end

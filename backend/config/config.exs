@@ -19,19 +19,27 @@ live_view: [signing_salt: "J/wOZFfo"]
 
 
 # Swoosh API client is needed for adapters other than SMTP.
-config :swoosh, :api_client, false
+# config :swoosh, :api_client, false
+
+# config :ourmaid, Ourmaid.Mailer,
+# adapter: Swoosh.Adapters.SMTP,
+# relay: "ocstudios.mx",
+# username: "no.reply@ocstudios.mx",
+# password: "OCStudios12345",
+# ssl: true,
+# tls: :always,
+# auth: :always,
+# port: 465,
+# retries: 2,
+# no_mx_lookups: false
 
 config :ourmaid, Ourmaid.Mailer,
-adapter: Swoosh.Adapters.SMTP,
-relay: "ocstudios.mx",
-username: "no.reply@ocstudios.mx",
-password: "OCStudios12345",
-ssl: true,
-tls: :always,
-auth: :always,
-port: 465,
-retries: 2,
-no_mx_lookups: false
+adapter: Swoosh.Adapters.Sendgrid,
+api_key: "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"
+
+
+# Swoosh API client is needed for adapters other than SMTP.
+config :swoosh, :api_client, Swoosh.ApiClient.Hackney
 
 
 # Configure esbuild (the version is required)

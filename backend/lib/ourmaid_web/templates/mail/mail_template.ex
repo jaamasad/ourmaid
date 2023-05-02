@@ -147,12 +147,12 @@ defmodule OurmaidWeb.Templates.Mail.MailTemplate do
 																			<ul class='leftList' style='margin-top: 0; margin-bottom: 0; padding: 0; padding-left: 20px; font-weight: 400; text-align: left; color: #101112; direction: ltr; font-family: Arial,Helvetica,sans-serif; font-size: 16px; letter-spacing: 1px; line-height: 120%; list-style-type: disc;'>
 																				<li style='margin-bottom: 15px; text-align: left;'>Name: #{email["name"]}</li>
 																				<li style='margin-bottom: 15px; text-align: left;'>Email: #{email["email"]}</li>
-																				<li style='margin-bottom: 15px; text-align: left;'>Direct Phone Number: #{email["direct_phone"]}</li>
+																				<li style='margin-bottom: 15px; text-align: left;'>Direct Phone Number: #{email["phone"]}</li>
 																				<li style='margin-bottom: 15px; text-align: left;'>Address Area of Interest: #{email["address"]}</li>
-																				<li style='margin-bottom: 15px; text-align: left;'>Postal Code: #{email["postal_code"]}</li>
+																				<li style='margin-bottom: 15px; text-align: left;'>Postal Code: #{email["postalCode"]}</li>
 																				<li style='margin-bottom: 15px; text-align: left;'>State or Country of Interest: #{email["location"]}</li>
-																				<li style='margin-bottom: 15px; text-align: left;'>How did you hear about us: #{email["hdyh_about"]}</li>
-																				<li style='margin-bottom: 15px; text-align: left;'>Liquid Capital Available: #{email["capital"]}</li>
+																				<li style='margin-bottom: 15px; text-align: left;'>How did you hear about us: #{email["referralSource"]}</li>
+																				<li style='margin-bottom: 15px; text-align: left;'>Liquid Capital Available: #{email["liquidCapital"]}</li>
 																				<li style='margin-bottom: 15px; text-align: left;'>Message: #{email["message"]}</li>
 																			</ul>
 																		</div>
