@@ -9,6 +9,11 @@ defmodule OurmaidWeb.ReleaseController do
     render(conn, "index.html", releases: releases)
   end
 
+  def releases(conn, _params) do
+    releases = Press.list_releases()
+    render(conn, "index.json", releases: releases)
+  end
+
   def new(conn, _params) do
     changeset = Press.change_release(%Release{})
     render(conn, "new.html", changeset: changeset)

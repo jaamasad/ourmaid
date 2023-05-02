@@ -25,6 +25,8 @@ defmodule OurmaidWeb.Router do
 
      post "/mail", MailController, :create
      get "/mail", MailController, :show
+
+     get "/releases", ReleaseController, :releases
    end
 
   # Enables LiveDashboard only for development
