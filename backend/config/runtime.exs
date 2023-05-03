@@ -32,7 +32,7 @@ if config_env() == :prod do
 
   config :ourmaid, Ourmaid.Repo,
     ssl: true,
-    ssl_opt:[
+    ssl_opt: [
       cacertfile: Path.expand("priv/certs/ca-certificate.crt")
     ]
     url: database_url,
