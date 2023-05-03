@@ -47,7 +47,7 @@ const ContactForm = () => (
         validationSchema={validationSchema}
         onSubmit={(values, { resetForm }) => {
 
-          fetch(`${process.env.BACKEND_URL}/api/mail`, {
+          fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/api/mail`, {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
