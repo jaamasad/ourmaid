@@ -47,9 +47,10 @@ const MainNavbar = ({ logo }) => {
       <div
         className={`flex px-2  max-w-7xl mx-auto items-center justify-between py-[18px] h-20`}
       >
-        <a href="tel:972-762-2881" className="text-2xl text-pink-800 lg:hidden hover:text-[#F3D8E6]" target="_blank">
+        <a href="tel:3023895221" className="text-2xl text-pink-800 lg:hidden hover:text-[#F3D8E6]">
           <FaPhoneAlt />
          </a>
+         
         <motion.div
           initial={{ x: -25, opacity: 0 }}
           whileInView={{ x: 0, opacity: 1 }}
