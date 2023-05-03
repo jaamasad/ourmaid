@@ -47,7 +47,7 @@ const ContactForm = () => (
         validationSchema={validationSchema}
         onSubmit={(values, { resetForm }) => {
 
-          fetch("http://localhost:4000/api/mail", {
+          fetch(`http://${process.env.BACKEND_URL}/api/mail`, {
             method: "POST",
             headers: {
               "Content-Type": "application/json",

@@ -7,7 +7,7 @@ const Releases = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:4000/api/releases")
+      .get(`http://${process.env.BACKEND_URL}/api/releases`)
       .then((response) => {
         const data = response.data;
         console.log("Respuesta del servidor: ", response.data);
