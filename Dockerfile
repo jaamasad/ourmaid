@@ -13,7 +13,7 @@ RUN mix do deps.get, deps.compile
 
 COPY ./backend .
 # Run frontend build, compile, and digest assets
-RUN mix do compile, phx.digest, assets.deploy
+RUN mix do compile, assets.deploy
 
 RUN chmod 777 ./_build
 
