@@ -12,8 +12,9 @@ COPY ./backend/mix.exs ./backend/mix.lock ./
 RUN mix do deps.get, deps.compile
 
 COPY ./backend .
-
 # Run frontend build, compile, and digest assets
-RUN mix do compile, phx.digest
+RUN mix do compile, phx.digest, assets.deploy
+
+RUN chmod 777 ./_build
 
 CMD ["mix", "phx.server"]
