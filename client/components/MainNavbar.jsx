@@ -18,7 +18,7 @@ const links = [
   { name: "brochure", link: "/brochure" },
   // { name: "webinar", link: "/webinar" },
   { name: "franchise costs", link: "/franchiseCosts" },
-  { name: "FDD", link: "/fdd" },
+  { name: "FDD", link: "/fdd2" },
   { name: "Operations Manual", link: "/operationsManual" },
   { name: "Press Release", link: "/pressRelease" },
 ];
@@ -73,12 +73,12 @@ const MainNavbar = ({ logo }) => {
           transition={{
             duration: 0.7,
           }}
-          className="hidden items-center justify-center gap-4 lg:gap-6 lg:flex"
+          className="items-center justify-center hidden gap-4 lg:gap-6 lg:flex"
         >
           {links.map((link, index) => (
             <li
               key={index}
-              className="relative text-black transition-colors duration-300 ease-in-out navHover uppercase font-semibold"
+              className="relative font-semibold text-black uppercase transition-colors duration-300 ease-in-out navHover"
             >
               <Link href={link.link} className="">
                 {link.name}
@@ -86,7 +86,7 @@ const MainNavbar = ({ logo }) => {
             </li>
           ))}
         </motion.ul>
-        <div className="lg:hidden relative w-10 h-10 flex items-center justify-center bg-pink-700 text-gray-200 p-2 rounded-full">
+        <div className="relative flex items-center justify-center w-10 h-10 p-2 text-gray-200 bg-pink-700 rounded-full lg:hidden">
           <HiMenuAlt4
             onClick={() => {
               setToggle(true);
@@ -100,12 +100,12 @@ const MainNavbar = ({ logo }) => {
               className="fixed bg-[url(/bgWhite.png)] bg-repeat z-10 h-screen w-[100%] sm:w-[70%] flex flex-col bg-pink-50 bg-cover top-0 right-0 shadow-2xl"
             >
               <HiX
-                className="text-3xl text-black m-4 cursor-pointer"
+                className="m-4 text-3xl text-black cursor-pointer"
                 onClick={() => {
                   setToggle(false);
                 }}
               />
-              <ul className="flex flex-col justify-center items-center gap-8">
+              <ul className="flex flex-col items-center justify-center gap-8">
                 {links.map((link, index) => (
                   <motion.li
                     initial={{ y: -25, opacity: 0 }}
@@ -121,7 +121,7 @@ const MainNavbar = ({ logo }) => {
                       onClick={() => {
                         setToggle(false);
                       }}
-                      className="text-gray-800 z-10 uppercase font-semibold hover:text-pink-800"
+                      className="z-10 font-semibold text-gray-800 uppercase hover:text-pink-800"
                     >
                       {link.name}
                     </Link>
@@ -134,7 +134,7 @@ const MainNavbar = ({ logo }) => {
                 transition={{
                   duration: 0.7,
                 }}
-                className="md:hidden flex gap-6 mt-7 items-center justify-center "
+                className="flex items-center justify-center gap-6 md:hidden mt-7 "
               >
                 <li>
                   <Link
@@ -179,12 +179,12 @@ const MainNavbar = ({ logo }) => {
                 transition={{
                   duration: 0.7,
                 }}
-                className="md:hidden flex flex-wrap items-center justify-center mt-7 gap-4"
+                className="flex flex-wrap items-center justify-center gap-4 md:hidden mt-7"
               >
-                <div className="flex flex-col justify-center items-center  gap-8">
+                <div className="flex flex-col items-center justify-center gap-8">
                   <p
                     onClick={() => setActiveCall(!activeCall)}
-                    className="text-gray-700 text-lg font-semibold text-center"
+                    className="text-lg font-semibold text-center text-gray-700"
                     style={{ overflowWrap: "anywhere" }}
                   >
                     {" "}
