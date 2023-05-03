@@ -23,8 +23,8 @@ const Releases = () => {
       <ul>
         {releases.map((release) => (
           <l key={release.id}>
-            <h4 className="mb-4 text-2xl font-semibold text-pink-800 md:text-3xl">PRESS RELEASE {release.date}</h4>
-            <p className="mb-4 text-xl font-semibold text-pink-800 md:text-2xl ">{moment(release.date, "YYYY-MM-DD").format("MM/DD/YYYY")}</p>
+            <h4 className="mb-4 text-2xl font-semibold text-pink-800 md:text-3xl">PRESS RELEASE {moment(release.date, "YYYY-MM-DD").format("MM/DD/YYYY")}</h4>
+            <p className="mb-4 text-xl font-semibold text-pink-800 md:text-2xl ">{release.title}</p>
             <p className="text-lg text-justify md:text-xl" dangerouslySetInnerHTML={{ __html: release.content }} />
             <br />
           </l>
