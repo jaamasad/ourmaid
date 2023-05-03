@@ -16,6 +16,4 @@ COPY ./backend .
 # Run frontend build, compile, and digest assets
 RUN mix do compile, phx.digest
 
-USER default
-
 CMD ["mix", "phx.server"]
