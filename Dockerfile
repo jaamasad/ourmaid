@@ -2,6 +2,8 @@ FROM bitwalker/alpine-elixir-phoenix:latest
 
 ARG PHX_HOST=api.ocstudios.mx
 ENV PHX_HOST=${PHX_HOST}
+ARG DATABASE_URL=
+ENV DATABASE_URL=${DATABASE_URL}
 
 # Set exposed ports
 EXPOSE 4000
