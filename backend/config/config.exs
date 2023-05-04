@@ -19,8 +19,32 @@ live_view: [signing_salt: "J/wOZFfo"]
 
 
 
+smtp_pass = System.get_env("SMTP_PASSWORD") ||
+raise """
+environment variable SMTP_PASSWORD is missing.
+"""
+smtp_username = System.get_env("SMTP_USERNAME") ||
+raise """
+environment variable SMTP_USERNAME is missing.
+"""
 
 
+# In your config/config.exs file
+config :ourmaid, Ourmaid.Mailer,
+  adapter: Bamboo.SMTPAdapter,
+  hostname: "ourmaids.com",
+  server: "smtp.ionos.mx",
+  port: 587,
+  username: smtp_username, # or {:system, "SMTP_USERNAME"}
+  password: smtp_pass, # or {:system, "SMTP_PASSWORD"}
+  tls: :if_available, # can be `:always` or `:never`
+  allowed_tls_versions: [:"tlsv1.1", :"tlsv1.2"], # or {:system, "ALLOWED_TLS_VERSIONS"} w/ comma separated values (e.g. "tlsv1.1,tlsv1.2")
+  tls_log_level: :error,
+  tls_verify: :verify_peer, # optional, can be `:verify_peer` or `:verify_none`
+  ssl: false, # can be `true`
+  retries: 2,
+  no_mx_lookups: false, # can be `true`
+  auth: :if_available
 
 # Configure esbuild (the version is required)
 config :esbuild,

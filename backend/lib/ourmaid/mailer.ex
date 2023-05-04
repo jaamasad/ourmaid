@@ -1,3 +1,3 @@
 defmodule Ourmaid.Mailer do
-  use Swoosh.Mailer, otp_app: :ourmaid
+  use Bamboo.Mailer, otp_app: :ourmaid
 end

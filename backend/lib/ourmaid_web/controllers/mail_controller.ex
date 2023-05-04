@@ -3,13 +3,12 @@ defmodule OurmaidWeb.MailController do
   import Ourmaid.ContactMail
 
 
+
   def create(conn, email) do
-      with {:ok} <- contact_email(email) do
-       conn
-       |> put_status(:created)
-       |> render("show.json", mail: :enviado)
-      end
-
+    with {:ok, email, response} = contact_email(email) |> Ourmaid.Mailer.deliver_now(response: true) do
+      conn
+      |> put_status(:created)
+      |> render("mail.json", response: response)
+    end
   end
-
 end

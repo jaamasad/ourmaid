@@ -7,9 +7,9 @@ defmodule OurmaidWeb.MailView do
     %{data: render_one(status, MailView, "mail.json")}
   end
 
-  def render("mail.json", %{mail: status}) do
+  def render("mail.json", %{response: response}) do
     %{
-      estatus: status,
+      response: response,
     }
   end
 end

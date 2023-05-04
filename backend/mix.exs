@@ -20,7 +20,7 @@ defmodule Ourmaid.MixProject do
   def application do
     [
       mod: {Ourmaid.Application, []},
-      extra_applications: [:logger, :runtime_tools]
+      extra_applications: [:logger, :runtime_tools, :bamboo, :bamboo_smtp]
     ]
   end
 
@@ -50,9 +50,10 @@ defmodule Ourmaid.MixProject do
       {:gettext, "~> 0.18"},
       {:jason, "~> 1.2"},
       {:plug_cowboy, "~> 2.5"},
-      {:gen_smtp, "~> 1.1"},
       {:hackney, "~> 1.9"},
-      {:cors_plug, "~> 3.0"}
+      {:cors_plug, "~> 3.0"},
+      {:bamboo, "~> 2.2.0"},
+      {:bamboo_smtp, "~> 4.1.0"}
 
     ]
   end
