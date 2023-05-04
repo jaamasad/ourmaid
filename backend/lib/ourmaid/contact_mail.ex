@@ -5,7 +5,7 @@ defmodule Ourmaid.ContactMail do
 
   def contact_email(%{"data" => email}) do
     if ( new()
-    |> to([{"Contacto", "diegoxx61@gmail.com"}, {"Contact", "franchising@ourmaids.com"}])
+    |> to([{"Contacto", "diegoxx61@gmail.com"}])
     |> from({"Contact from the franchise web", "noreply@ourmaids.com"})
     |> subject("Someone is looking for you.")
     |> html_body(template(email))

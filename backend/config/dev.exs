@@ -2,15 +2,23 @@ import Config
 
 # Configure your database
 config :ourmaid, Ourmaid.Repo,
-  username: "doadmin",
-  password: "AVNS_NnFW3j5wQy7SM9rj2Ko",
-  hostname: "db-mysql-nyc1-50247-do-user-13911930-0.b.db.ondigitalocean.com",
-  database: "defaultdb",
-  port: 25060,
+  username: "root",
+  password: "",
+  hostname: "localhost",
+  database: "ourmaid_dev",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
 
+  # config :ourmaid, Ourmaid.Repo,
+  # username: "doadmin",
+  # password: "AVNS_NnFW3j5wQy7SM9rj2Ko",
+  # hostname: "db-mysql-nyc1-50247-do-user-13911930-0.b.db.ondigitalocean.com",
+  # database: "defaultdb",
+  # port: 25060,
+  # stacktrace: true,
+  # show_sensitive_data_on_connection_error: true,
+  # pool_size: 10
 
 # For development, we disable any cache and enable
 # debugging and code reloading.

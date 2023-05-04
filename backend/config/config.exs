@@ -19,13 +19,7 @@ live_view: [signing_salt: "J/wOZFfo"]
 
 
 
-config :ourmaid, Ourmaid.Mailer,
-adapter: Swoosh.Adapters.Sendgrid,
-api_key: "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"
 
-
-# Swoosh API client is needed for adapters other than SMTP.
-config :swoosh, :api_client, Swoosh.ApiClient.Hackney
 
 
 # Configure esbuild (the version is required)
