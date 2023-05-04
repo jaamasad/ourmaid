@@ -66,6 +66,20 @@ if config_env() == :prod do
     ],
     secret_key_base: secret_key_base
 
+
+    config :swoosh, :api_client, false
+
+    config :ourmaid, Ourmaid.Mailer,
+    adapter: Swoosh.Adapters.SMTP,
+    relay: "smtp.ionos.mx",
+    username: "noreply@ourmaids.com",
+    password: "MPsc$de2164@DE2023",
+    ssl: true,
+    tls: :always,
+    auth: :always,
+    port: 587,
+    retries: 2,
+    no_mx_lookups: false
   # ## Configuring the mailer
   #
   # In production you need to configure the mailer to use a different adapter.
