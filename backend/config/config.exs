@@ -29,7 +29,7 @@ password: "MPsc$de2164@DE2023",
 ssl: true,
 tls: :always,
 auth: :always,
-port: 587,
+port: 25,
 retries: 2,
 no_mx_lookups: false
 
