@@ -63,6 +63,10 @@ const Footer = () => {
               email us:{" "}
               <span className="underline">franchising@ourmaids.com</span>
             </p>
+            <p>To read our privacy policy, click on the following link:</p>
+            <Link href="/privacy-policy">
+              <p className="text-white underline">Privacy Policy </p>
+            </Link>
           </motion.div>
         </div>
       </section>
