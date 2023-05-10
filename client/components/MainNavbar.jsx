@@ -11,7 +11,7 @@ import {
   FaInstagram,
   FaLinkedin,
   FaPhoneAlt
-} from "react-icons/fa";
+} from "react-icons/fa"; 
 import { HiOutlineMail } from "react-icons/hi";
 
 const links = [

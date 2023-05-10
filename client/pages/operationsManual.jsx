@@ -2,63 +2,116 @@ import MainHead from '@/components/MainHead'
 import Hero from '@/components/OpreationsManual/Hero'
 import TextSection from '@/components/OpreationsManual/TextSection'
 import React, { useEffect, useState } from 'react'
+import { Document, Page, pdfjs } from 'react-pdf';
+import axios from 'axios';
+import {
+  FaChevronCircleLeft,
+  FaChevronCircleRight,
+  FaFileDownload
+} from "react-icons/fa"; 
+
+import pdfjsWorker from 'pdfjs-dist/build/pdf.worker.entry';
+pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
 const OperationsManual = () => {
-  const [authunticate, setAuthunticate] = useState(false)
-  const [passcode, setPasscode] = useState("")
-  useEffect(() => {
-    if (localStorage.getItem("n") === '022023' || passcode === '022023') {
-      setAuthunticate(true)
-    }
-    else {
-      setAuthunticate(false)
-    }
-  }, [])
-  const handleSubmit = () => {
-    if (passcode === '022023') {
-      localStorage.setItem("n", "022023")
-      setAuthunticate(true)
-    }
 
+  const [numPages, setNumPages] = useState(null);
+  const [pageNumber, setPageNumber] = useState(1);
+  const [showModal, setShowModal] = useState(false);
+  const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
+
+  const onDocumentLoadSuccess = ({ numPages }) => {
+    setNumPages(numPages);
+  };
+
+  const handlePasswordChange = (event) => {
+    setPassword(event.target.value);
   }
-  const handleChange = (e) => {
-    setPasscode(e.target.value)
+
+  const handleDownload = () => {
+    if (password === '032023') {
+      axios({
+        url: 'http://localhost:3000/OM_032023.pdf',
+        method: 'GET',
+        responseType: 'blob', // El tipo de respuesta es una descarga de archivo
+      }).then((response) => {
+        const url = window.URL.createObjectURL(new Blob([response.data]));
+        const link = document.createElement('a');
+        link.href = url;
+        link.setAttribute('download', 'OM_032023.pdf');
+        document.body.appendChild(link);
+        link.click();
+      }).catch((error) => {
+        setError('Download has failed.');
+        console.error(error);
+      });
+      setShowModal(false);
+      setPassword('');
+      setError('');
+    } else {
+      setError('Password is incorrect, please try again.');
+    }
   }
+  
+
   return (
-    <div>
-      <MainHead
-        metaTitle="Cleaning franchise operations manual."
-        metaKeywords="Put Keywords here for OperationsManual page"
-        metaDesc="Put description here for OperationsManual page"
-      />
-      {
-        !authunticate ? <div className='absolute top-0 w-full h-full z-40  bg-[#1d1d2b] '>
-          <div class="w-full m-auto mt-[10%] max-w-xs">
-            <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
-              <div class="mb-6">
-                <label class="block text-gray-700 text-sm font-bold mb-2" for="password">
-                  Please Enter Passowrd
-                </label>
-                <input class="shadow appearance-none border border-red-500 rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="password" type="password" value={passcode} onChange={handleChange} />
-              </div>
-              <div class="flex items-center justify-between">
-                <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
-                  type="button"
-                  onClick={handleSubmit}>
-                  Submit
-                </button>
-              </div>
-            </form>
-          </div>
-        </div> :
-          <>
-            <Hero />
-            <TextSection />
-          </>
-      }
+    <div className='flex justify-center w-full ' >
+      <div className='mt-[10%] w-[650px] shadow-lg shadow-black  rounded border-black aspect-[1/1.3] mb-4 overflow-hidden'>
 
-    </div >
-  )
+        <div className='flex flex-row bg-gray-100 items-center justify-between p-2 rounded-t'>
+          <p className=' mx-5 border  rounded p-2 bg-pink-800  text-white'>
+            Page {pageNumber} of {numPages}
+          </p>
+
+          <div>
+            {/* Botón para abrir el modal */}
+            <button className='rounded p-2 bg-pink-800 text-white hover:bg-pink-700' onClick={() => setShowModal(true)}><FaFileDownload/></button>
+
+            {/* Modal para ingresar contraseña */}
+            {showModal && (
+              <div className="fixed inset-0 bg-gray-500 bg-opacity-75 flex items-center justify-center z-50">
+              <div className="bg-white rounded-lg p-4 max-w-md mx-auto">
+                <h3 className="text-lg font-medium mb-4">Please enter the password.</h3>
+                <input type="password" className="border border-gray-300 p-2 rounded-md w-full mb-2" value={password} onChange={handlePasswordChange} />
+                {error && <p className="text-red-600 mb-2">{error}</p>}
+                <button className="bg-pink-500 hover:bg-pink-400 text-white rounded-md py-2 px-4 mr-2" onClick={handleDownload}>Download</button>
+                <button className="bg-gray-300 hover:bg-gray-400 text-gray-700 rounded-md py-2 px-4" onClick={() => setShowModal(false)}>Close</button>
+              </div>
+            </div>
+            )}
+          </div>
+          <div className='mx-5'>
+            <button
+              className='rounded bg-pink-800 text-white p-2 mx-1 hover:bg-pink-700'
+              disabled={pageNumber <= 1}
+              onClick={() => setPageNumber(pageNumber - 1)}
+            >
+              <FaChevronCircleLeft/>
+            </button>
+            <button
+              className='rounded bg-pink-800 text-white p-2 mx-1 hover:bg-pink-700'
+              disabled={pageNumber >= numPages}
+              onClick={() => setPageNumber(pageNumber + 1)}
+            >
+              <FaChevronCircleRight/>
+
+            </button>
+
+          </div>
+
+        </div>
+        <Document
+          file={'http://localhost:3000/OM_032023.pdf'}
+          onLoadSuccess={onDocumentLoadSuccess}
+          onError={(error) => console.error("Error loading PDF:", error)}
+        >
+          <Page pageNumber={pageNumber} />
+        </Document>
+      </div>
+    </div>
+  );
+
 }
 
 export default OperationsManual
