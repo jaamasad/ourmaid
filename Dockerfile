@@ -6,6 +6,10 @@ ARG DATABASE_URL=
 ENV DATABASE_URL=${DATABASE_URL}
 ARG SECRET_KEY_BASE=
 ENV SECRET_KEY_BASE=${SECRET_KEY_BASE}
+ARG SMTP_PASSWORD=
+ENV SMTP_PASSWORD=${SMTP_PASSWORD}
+ARG SMTP_USERNAME=
+ENV SMTP_USERNAME=${SMTP_USERNAME}
 
 # Set exposed ports
 EXPOSE 4000
@@ -17,7 +21,7 @@ RUN mix do deps.get, deps.compile
 
 COPY ./backend .
 # Run frontend build, compile, and digest assets
-RUN mix do compile, setup, assets.deploy
+RUN mix do compile, assets.deploy
 
 RUN chmod 777 ./_build
 
