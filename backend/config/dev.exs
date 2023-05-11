@@ -10,22 +10,13 @@ config :ourmaid, Ourmaid.Repo,
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
 
-  # config :ourmaid, Ourmaid.Repo,
-  # username: "doadmin",
-  # password: "AVNS_NnFW3j5wQy7SM9rj2Ko",
-  # hostname: "db-mysql-nyc1-50247-do-user-13911930-0.b.db.ondigitalocean.com",
-  # database: "defaultdb",
-  # port: 25060,
-  # stacktrace: true,
-  # show_sensitive_data_on_connection_error: true,
-  # pool_size: 10
-
 # For development, we disable any cache and enable
 # debugging and code reloading.
 #
 # The watchers configuration can be used to run external
 # watchers to your application. For example, we use it
 # with esbuild to bundle .js and .css sources.
+
 config :ourmaid, OurmaidWeb.Endpoint,
   # Binding to loopback ipv4 address prevents access from other machines.
   # Change to `ip: {0, 0, 0, 0}` to allow access from other machines.

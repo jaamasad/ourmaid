@@ -32,7 +32,7 @@ const OperationsManual = () => {
   const handleDownload = () => {
     if (password === '032023') {
       axios({
-        url: 'http://localhost:3000/OM_032023.pdf',
+        url: `${process.env.NEXT_PUBLIC_PDF_URL}/OM_032023.pdf`, 
         method: 'GET',
         responseType: 'blob', // El tipo de respuesta es una descarga de archivo
       }).then((response) => {
@@ -102,7 +102,7 @@ const OperationsManual = () => {
 
         </div>
         <Document
-          file={'http://localhost:3000/OM_032023.pdf'}
+          file={`${process.env.NEXT_PUBLIC_PDF_URL}/OM_032023.pdf`}
           onLoadSuccess={onDocumentLoadSuccess}
           onError={(error) => console.error("Error loading PDF:", error)}
         >
