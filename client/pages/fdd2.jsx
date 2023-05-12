@@ -1,65 +1,116 @@
 import React, { useState } from "react";
 import fileDownload from "js-file-download";
 import MainHead from '@/components/MainHead'
-import axios from "axios";
+import { Document, Page, pdfjs } from 'react-pdf';
+import axios from 'axios';
+import {
+  FaChevronCircleLeft,
+  FaChevronCircleRight,
+  FaFileDownload
+} from "react-icons/fa";
+
+import pdfjsWorker from 'pdfjs-dist/build/pdf.worker.entry';
+pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker;
 
 function FileDownloadComponent() {
-    const [password, setPassword] = useState("");
-    const [errorMessage, setErrorMessage] = useState("");
-    
-    const handlePasswordChange = (event) => {
-      setPassword(event.target.value);
-    };
-  
-    const handleDownloadClick = async (event) => {
-      event.preventDefault();
-      if (password === "022023") {
-        try {
-          const response = await axios.get("/fdd-032023.pdf", {
-            responseType: "blob",
-          });
-          fileDownload(response.data, "fdd-032023.pdf");
-        } catch (error) {
-          console.log(error);
-        }
-        setErrorMessage("");
-      } else {
-        setErrorMessage("Password is incorrect, please try again.");
-      }
-    };
+  const [numPages, setNumPages] = useState(null);
+  const [pageNumber, setPageNumber] = useState(1);
+  const [showModal, setShowModal] = useState(false);
+  const [password, setPassword] = useState('');
+  const [error, setError] = useState('');
+
+  const onDocumentLoadSuccess = ({ numPages }) => {
+    setNumPages(numPages);
+  };
+
+  const handlePasswordChange = (event) => {
+    setPassword(event.target.value);
+  }
+
+  const handleDownload = () => {
+    if (password === '032023') {
+      axios({
+        url: `${process.env.NEXT_PUBLIC_PDF_URL}/fdd-032023.pdf`,
+        method: 'GET',
+        responseType: 'blob', // El tipo de respuesta es una descarga de archivo
+      }).then((response) => {
+        const url = window.URL.createObjectURL(new Blob([response.data]));
+        const link = document.createElement('a');
+        link.href = url;
+        link.setAttribute('download', 'OM_032023.pdf');
+        document.body.appendChild(link);
+        link.click();
+      }).catch((error) => {
+        setError('Download has failed.');
+        console.error(error);
+      });
+      setShowModal(false);
+      setPassword('');
+      setError('');
+    } else {
+      setError('Password is incorrect, please try again.');
+    }
+  }
 
 return (
+  <div>
+        
+  <div className='flex  justify-center w-full ' >
 
-<div>
-    <MainHead metaTitle="Residential and Commercial cleaning franchise, FDD."
-        metaKeywords="Put Keywords here for FDD page" metaDesc="Put description here for FDD page" />
-    <div className='absolute top-0 w-full h-full z-40  bg-[#1d1d2b] '>
-        <div className="w-full m-auto mt-[10%] max-w-xs">
-            <form className="px-8 pt-6 pb-8 mb-4 bg-white rounded shadow-md">
-                <div className="mb-6">
-                    <label className="block mb-2 text-sm font-bold text-gray-700" htmlFor="password">
-                        Please Enter Passowrd
-                    </label>
-                    <input type="password"
-                        className="w-full px-3 py-2 mb-3 leading-tight text-gray-700 border border-red-500 rounded shadow appearance-none focus:outline-none focus:shadow-outline"
-                        value={password} onChange={handlePasswordChange} />
-                </div>
-                <div className="flex flex-col items-center justify-between">
-                    <div>
-                        
-                    <button
-                        className="px-4 py-2 font-bold text-white bg-blue-500 rounded hover:bg-blue-700 focus:outline-none focus:shadow-outline"
-                        onClick={handleDownloadClick}>Download PDF</button>
-                    </div>
-                    <div className="text-red-700">
-                    {errorMessage && <p>{errorMessage}</p>}
-                        
-                    </div>
-                </div>
-            </form>
+
+    <div className='mt-[10%] w-[650px] shadow-lg shadow-black  rounded border-black aspect-[1/1.3] mb-4 overflow-hidden'>
+
+      <div className='flex flex-row bg-gray-100 items-center justify-between p-2 rounded-t'>
+        <p className=' mx-5 border  rounded p-2 bg-pink-800  text-white'>
+          Page {pageNumber} of {numPages}
+        </p>
+
+        <div>
+          {/* Botón para abrir el modal */}
+          <button className='rounded p-2 bg-pink-800 text-white hover:bg-pink-700' onClick={() => setShowModal(true)}><FaFileDownload /></button>
+
+          {/* Modal para ingresar contraseña */}
+          {showModal && (
+            <div className="fixed inset-0 bg-gray-500 bg-opacity-75 flex items-center justify-center z-50">
+              <div className="bg-white rounded-lg p-4 max-w-md mx-auto">
+                <h3 className="text-lg font-medium mb-4">Please enter the password.</h3>
+                <input type="password" className="border border-gray-300 p-2 rounded-md w-full mb-2" value={password} onChange={handlePasswordChange} />
+                {error && <p className="text-red-600 mb-2">{error}</p>}
+                <button className="bg-pink-500 hover:bg-pink-400 text-white rounded-md py-2 px-4 mr-2" onClick={handleDownload}>Download</button>
+                <button className="bg-gray-300 hover:bg-gray-400 text-gray-700 rounded-md py-2 px-4" onClick={() => setShowModal(false)}>Close</button>
+              </div>
+            </div>
+          )}
         </div>
-    </div>
+        <div className='mx-5'>
+          <button
+            className='rounded bg-pink-800 text-white p-2 mx-1 hover:bg-pink-700'
+            disabled={pageNumber <= 1}
+            onClick={() => setPageNumber(pageNumber - 1)}
+          >
+            <FaChevronCircleLeft />
+          </button>
+          <button
+            className='rounded bg-pink-800 text-white p-2 mx-1 hover:bg-pink-700'
+            disabled={pageNumber >= numPages}
+            onClick={() => setPageNumber(pageNumber + 1)}
+          >
+            <FaChevronCircleRight />
 
+          </button>
+
+        </div>
+
+      </div>
+      <Document
+        file={`${process.env.NEXT_PUBLIC_PDF_URL}/fdd-032023.pdf`}
+        onLoadSuccess={onDocumentLoadSuccess}
+
+      >
+        <Page pageNumber={pageNumber} />
+      </Document>
+    </div>
+  </div>
 </div>
 );
 }

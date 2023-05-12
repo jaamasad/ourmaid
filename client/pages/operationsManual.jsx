@@ -8,7 +8,7 @@ import {
   FaChevronCircleLeft,
   FaChevronCircleRight,
   FaFileDownload
-} from "react-icons/fa"; 
+} from "react-icons/fa";
 
 import pdfjsWorker from 'pdfjs-dist/build/pdf.worker.entry';
 pdfjs.GlobalWorkerOptions.workerSrc = pdfjsWorker;
@@ -30,9 +30,9 @@ const OperationsManual = () => {
   }
 
   const handleDownload = () => {
-    if (password === '032023') {
+    if (password === '022023') {
       axios({
-        url: `${process.env.NEXT_PUBLIC_PDF_URL}/OM_032023.pdf`, 
+        url: `${process.env.NEXT_PUBLIC_PDF_URL}/OM_032023.pdf`,
         method: 'GET',
         responseType: 'blob', // El tipo de respuesta es una descarga de archivo
       }).then((response) => {
@@ -53,63 +53,69 @@ const OperationsManual = () => {
       setError('Password is incorrect, please try again.');
     }
   }
-  
+
 
   return (
-    <div className='flex justify-center w-full ' >
-      <div className='mt-[10%] w-[650px] shadow-lg shadow-black  rounded border-black aspect-[1/1.3] mb-4 overflow-hidden'>
+    <div>
+        
+      <div className='flex  justify-center w-full ' >
 
-        <div className='flex flex-row bg-gray-100 items-center justify-between p-2 rounded-t'>
-          <p className=' mx-5 border  rounded p-2 bg-pink-800  text-white'>
-            Page {pageNumber} of {numPages}
-          </p>
 
-          <div>
-            {/* Botón para abrir el modal */}
-            <button className='rounded p-2 bg-pink-800 text-white hover:bg-pink-700' onClick={() => setShowModal(true)}><FaFileDownload/></button>
+        <div className='mt-[10%] w-[650px] shadow-lg shadow-black  rounded border-black aspect-[1/1.3] mb-4 overflow-hidden'>
 
-            {/* Modal para ingresar contraseña */}
-            {showModal && (
-              <div className="fixed inset-0 bg-gray-500 bg-opacity-75 flex items-center justify-center z-50">
-              <div className="bg-white rounded-lg p-4 max-w-md mx-auto">
-                <h3 className="text-lg font-medium mb-4">Please enter the password.</h3>
-                <input type="password" className="border border-gray-300 p-2 rounded-md w-full mb-2" value={password} onChange={handlePasswordChange} />
-                {error && <p className="text-red-600 mb-2">{error}</p>}
-                <button className="bg-pink-500 hover:bg-pink-400 text-white rounded-md py-2 px-4 mr-2" onClick={handleDownload}>Download</button>
-                <button className="bg-gray-300 hover:bg-gray-400 text-gray-700 rounded-md py-2 px-4" onClick={() => setShowModal(false)}>Close</button>
-              </div>
+          <div className='flex flex-row bg-gray-100 items-center justify-between p-2 rounded-t'>
+            <p className=' mx-5 border  rounded p-2 bg-pink-800  text-white'>
+              Page {pageNumber} of {numPages}
+            </p>
+
+            <div>
+              {/* Botón para abrir el modal */}
+              <button className='rounded p-2 bg-pink-800 text-white hover:bg-pink-700' onClick={() => setShowModal(true)}><FaFileDownload /></button>
+
+              {/* Modal para ingresar contraseña */}
+              {showModal && (
+                <div className="fixed inset-0 bg-gray-500 bg-opacity-75 flex items-center justify-center z-50">
+                  <div className="bg-white rounded-lg p-4 max-w-md mx-auto">
+                    <h3 className="text-lg font-medium mb-4">Please enter the password.</h3>
+                    <input type="password" className="border border-gray-300 p-2 rounded-md w-full mb-2" value={password} onChange={handlePasswordChange} />
+                    {error && <p className="text-red-600 mb-2">{error}</p>}
+                    <button className="bg-pink-500 hover:bg-pink-400 text-white rounded-md py-2 px-4 mr-2" onClick={handleDownload}>Download</button>
+                    <button className="bg-gray-300 hover:bg-gray-400 text-gray-700 rounded-md py-2 px-4" onClick={() => setShowModal(false)}>Close</button>
+                  </div>
+                </div>
+              )}
             </div>
-            )}
+            <div className='mx-5'>
+              <button
+                className='rounded bg-pink-800 text-white p-2 mx-1 hover:bg-pink-700'
+                disabled={pageNumber <= 1}
+                onClick={() => setPageNumber(pageNumber - 1)}
+              >
+                <FaChevronCircleLeft />
+              </button>
+              <button
+                className='rounded bg-pink-800 text-white p-2 mx-1 hover:bg-pink-700'
+                disabled={pageNumber >= numPages}
+                onClick={() => setPageNumber(pageNumber + 1)}
+              >
+                <FaChevronCircleRight />
+
+              </button>
+
+            </div>
+
           </div>
-          <div className='mx-5'>
-            <button
-              className='rounded bg-pink-800 text-white p-2 mx-1 hover:bg-pink-700'
-              disabled={pageNumber <= 1}
-              onClick={() => setPageNumber(pageNumber - 1)}
-            >
-              <FaChevronCircleLeft/>
-            </button>
-            <button
-              className='rounded bg-pink-800 text-white p-2 mx-1 hover:bg-pink-700'
-              disabled={pageNumber >= numPages}
-              onClick={() => setPageNumber(pageNumber + 1)}
-            >
-              <FaChevronCircleRight/>
+          <Document
+            file={`${process.env.NEXT_PUBLIC_PDF_URL}/OM_032023.pdf`}
+            onLoadSuccess={onDocumentLoadSuccess}
 
-            </button>
-
-          </div>
-
+          >
+            <Page pageNumber={pageNumber} />
+          </Document>
         </div>
-        <Document
-          file={`${process.env.NEXT_PUBLIC_PDF_URL}/OM_032023.pdf`}
-          onLoadSuccess={onDocumentLoadSuccess}
-          onError={(error) => console.error("Error loading PDF:", error)}
-        >
-          <Page pageNumber={pageNumber} />
-        </Document>
       </div>
     </div>
+
   );
 
 }
