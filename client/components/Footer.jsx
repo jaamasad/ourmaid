@@ -67,6 +67,10 @@ const Footer = () => {
             <Link href="/privacy-policy">
               <p className="text-white underline">Privacy Policy </p>
             </Link>
+            <Link href="/sitemap">
+              <p className="text-white underline">Sitemap </p>
+            </Link>
+
           </motion.div>
         </div>
       </section>
