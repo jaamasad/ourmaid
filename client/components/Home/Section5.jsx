@@ -4,8 +4,8 @@ import { motion } from "framer-motion";
 const Section5 = () => {
   return (
     <div className=" bg-[#F3E5F6] px-5 mx-auto flex items-center justify-center flex-col py-10 overflow-x-hidden">
-      <section className="text-gray-600 max-w-7xl body-font flex items-center justify-center">
-        <div className="container mx-auto flex gap-5 md:flex-row flex-col items-center">
+      <section className="flex items-center justify-center text-gray-600 max-w-7xl body-font">
+        <div className="container flex flex-col items-center gap-5 mx-auto md:flex-row">
           <motion.div
             initial={{ x: -100, opacity: 0 }}
             whileInView={{ x: 0, opacity: 1 }}
@@ -16,7 +16,7 @@ const Section5 = () => {
           >
             <img
               className="object-cover object-center rounded"
-              alt="hero"
+              alt="Cleaning Services in Delaware"
               src="/section5.jpg"
             />
           </motion.div>
@@ -26,9 +26,9 @@ const Section5 = () => {
             transition={{
               duration: 0.7,
             }}
-            className="lg:flex-grow md:w-2/3 flex flex-col md:items-start md:text-left items-center text-center"
+            className="flex flex-col items-center text-center lg:flex-grow md:w-2/3 md:items-start md:text-left"
           >
-            <h1 className="title-font md:text-xl text-xl mb-4 font-medium text-pink-900">
+            <h1 className="mb-4 text-xl font-medium text-pink-900 title-font md:text-xl">
               WE WILL SHOW HOW EASY IT IS TO RUN AN OUR MAIDS, INC. FRANCHISE.
               You will be ready and selling in ten days or less of training!
             </h1>

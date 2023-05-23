@@ -3,9 +3,9 @@ import { motion } from "framer-motion";
 
 const Section4 = () => {
   return (
-    <div className="max-w-7xl px-5 mx-auto min-h-screen flex items-center justify-center flex-col py-10 overflow-x-hidden">
-      <section className="text-gray-600 body-font flex items-center justify-center">
-        <div className="container mx-auto flex gap-5 md:flex-row flex-col items-center">
+    <div className="flex flex-col items-center justify-center min-h-screen px-5 py-10 mx-auto overflow-x-hidden max-w-7xl">
+      <section className="flex items-center justify-center text-gray-600 body-font">
+        <div className="container flex flex-col items-center gap-5 mx-auto md:flex-row">
           <motion.div
             initial={{ x: -100, opacity: 0 }}
             whileInView={{ x: 0, opacity: 1 }}
@@ -16,7 +16,7 @@ const Section4 = () => {
           >
             <img
               className="object-cover object-center rounded"
-              alt="hero"
+              alt="Cleaning Franchise in The United States and The World"
               src="/section4.jpg"
             />
           </motion.div>
@@ -26,9 +26,9 @@ const Section4 = () => {
             transition={{
               duration: 0.7,
             }}
-            className="lg:flex-grow md:w-1/2 flex flex-col md:items-start md:text-left items-center text-center"
+            className="flex flex-col items-center text-center lg:flex-grow md:w-1/2 md:items-start md:text-left"
           >
-            <h1 className="title-font md:text-xl text-xl mb-2 font-medium text-pink-900">
+            <h1 className="mb-2 text-xl font-medium text-pink-900 title-font md:text-xl">
             OUR MAIDS FRANCHISE, INC.(OUR MAIDS, OUR MAIDS, INC.) IS THE ONLY CLEANING FRANCHISE IN THE UNITED STATES AND THE WORLD YOU CAN OWN FOR THE LOW $32,500 (USD) TOTAL INVESTMENT. OUR MAIDS FRANCHISE , INC.(OUR MAIDS, INC.) IS THE ONLY CLEANING FRANCHISE IN THE UNITED WHERE YOU CAN GET YOUR INVESTMENT BACK IN ONE YEAR OR LESS.<span className="text-[17px] font-normal leading-">(please note: to get to this point one needs to work at least 6 days per week from 7:am to 7;pm and invest on advertising a minimum of $2,000 TO $3,000 per month. Results may vary by geographical areas and are not guaranteed.)</span>
             </h1>
             <p className="leading-normal text-[17x] mb-4">

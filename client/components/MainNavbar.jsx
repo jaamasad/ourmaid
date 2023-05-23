@@ -63,7 +63,7 @@ const MainNavbar = ({ logo }) => {
             <img
               src="/logo.jpg"
               // src={urlFor(logo[0]?.logoImg)}
-              alt="Logo"
+              alt="Our Maids Franchise"
               className="w-60"
             />
           </Link>

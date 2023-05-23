@@ -3,9 +3,9 @@ import { motion } from "framer-motion";
 
 const Section2 = () => {
   return (
-    <div className="max-w-7xl px-5 mx-auto min-h-screen flex items-center justify-center flex-col py-10 overflow-x-hidden">
-      <section className="text-gray-600 body-font flex items-center justify-center">
-        <div className="container mx-auto flex gap-5 md:flex-row flex-col items-center">
+    <div className="flex flex-col items-center justify-center min-h-screen px-5 py-10 mx-auto overflow-x-hidden max-w-7xl">
+      <section className="flex items-center justify-center text-gray-600 body-font">
+        <div className="container flex flex-col items-center gap-5 mx-auto md:flex-row">
           <motion.div
             initial={{ x: -100, opacity: 0 }}
             whileInView={{ x: 0, opacity: 1 }}
@@ -16,7 +16,7 @@ const Section2 = () => {
           >
             <img
               className="object-cover object-center rounded"
-              alt="hero"
+              alt="Cleaning Industry"
               src="https://lirp.cdn-website.com/94c95444/import/clib/ourmaids_com/dms3rep/multi/opt/186832818_1000-1000x667-1070w.jpg"
             />
           </motion.div>
@@ -26,9 +26,9 @@ const Section2 = () => {
             transition={{
               duration: 0.7,
             }}
-            className="lg:flex-grow md:w-1/2 flex flex-col md:items-start md:text-left items-center text-center"
+            className="flex flex-col items-center text-center lg:flex-grow md:w-1/2 md:items-start md:text-left"
           >
-            <h1 className="title-font sm:text-2xl text-xl mb-4 font-medium text-pink-900">
+            <h1 className="mb-4 text-xl font-medium text-pink-900 title-font sm:text-2xl">
               22 YEARS IN THE CLEANING INDUSTRY MEANS: WE MADE ALL THE MISTAKES
               ALREADY! (so you do not have to.)
             </h1>

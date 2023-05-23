@@ -61,7 +61,7 @@ const Section1 = () => {
           >
             <img
               className="object-cover object-center rounded"
-              alt="hero"
+              alt="Residential House Cleaning Services"
               src="https://lirp.cdn-website.com/94c95444/import/clib/ourmaids_com/dms3rep/multi/opt/21121942_lel_d600-600x400-1044w.jpg"
             />
           </motion.div>

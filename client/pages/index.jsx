@@ -16,11 +16,20 @@ const inter = Inter({ subsets: ["latin"] });
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>Best Residential and Commercial Cleaning Franchise in the World</title>
+        <link rel="canonical" href="https://www.ourmaidsfranchise.com/" />
+
+      </Head>
+      <header>
+        <meta name="description" content="Our Maids Franchise is a dedicated cleaning services company that offers the most reliable and efficient cleaning services in the market. Contact us today to start your own franchise!" />
+      </header>
       <MainHead
         metaTitle="Best Cleaning franchise in the world."
         metaKeywords="Put Keywords here for home page"
         metaDesc="Put description here for home page"
       />
+
       <Hero />
       <Section1 />
       <Section2 />
