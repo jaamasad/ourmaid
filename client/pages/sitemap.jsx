@@ -7,7 +7,6 @@ function Sitemap() {
             <Head>
                 <title>Sitemap - Ourmaidsfranchise.com</title>
                 <link rel="canonical" href="https://www.ourmaidsfranchise.com/" />
-
             </Head>
             <header>
                 <meta name="description" content="This is a sitemap page made up of all links to all the web pages present in Ourmaidsfranchise.com for your easy navigation." />

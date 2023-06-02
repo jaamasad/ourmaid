@@ -4,17 +4,17 @@ import { motion } from "framer-motion";
 const Hero = () => {
   return (
     <div className="relative h-fit">
+
       <video
         src="/home.mov"
-        className="inset-0 z-0 object-cover w-full h-auto filter brightness-75"
+        className="inset-0 z-0 object-cover w-full mt-20 h-96 filter brightness-75"
         autoPlay
         controls
-        loop
         muted
       >
         <source src="/home.mov" type="video/mov" />
       </video>
-      <div className="z-20 flex items-center justify-center">
+      <div className="z-20 flex items-center justify-center m-5">
         <div className="flex items-center justify-center flex-col z-20 py-5 md:py-10  px-4 md:px-8 bg-black text-white opacity-70 rounded-[30px] -bottom-60 md:-bottom-28  w-[95%] md:w-[75%] lg:w-[900px] xl:w-[1050px] mx-auto">
           <h1 className="text-3xl md:text-6xl font-bold text-center tracking-[2px] mb-6 lg:mb-10">
             OUR MAIDS FRANCHISE, INC.
@@ -23,10 +23,13 @@ const Hero = () => {
             THE BEST RESIDENTIAL AND COMMERCIAL CLEANING FRANCHISE IN THE WORLD.
           </h3>
           <h3 className="mb-2 text-lg font-bold text-center md:text-2xl lg:mb-3">
-            AND THE MOST AFFORDABLE. OWN A FRANCHISE FROM THE LOWS $30K.{" "}
+            AND THE MOST AFFORDABLE. OWN A FRANCHISE FROM THE LOWS $30K. <br />
+            PAY THE $20K FRANCHISE FEE IN ONE YEAR WITH $3K DOWN AND 12 MONTHLY PAYMENTS OF $1,420 EACH.  <br />
             <span className="text-pink-300">
-              (Please be informed, read our Operations Manual and the FDD and
-              consult with your Attorney or Accountant.)
+              Please be adviced: 
+              <br/> 1.- Read our Operations Manual and the FDD and
+              consult with your Attorney or Accountant.
+              <br/> 2.- THIS OFFER DOES NOT APPLY TO ANY AREA DEVELOPMENT PROGRAM
             </span>{" "}
           </h3>
           <p className="text-sm md:text-[18px] leading-[25px] text-center">

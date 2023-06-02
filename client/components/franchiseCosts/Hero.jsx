@@ -3,22 +3,24 @@ import { motion } from "framer-motion";
 
 const Hero = () => {
   return (
-    <div className="relative pt-36">
+    <div className="flex flex-col justify-center ">
      <video
-        className="absolute inset-0 w-full h-auto object-cover filter brightness-75 z-0 mt-20 sm:mt-0"
+        className="inset-0 z-0 object-cover w-full mt-20 h-96 filter brightness"
         autoPlay
-        controls
-        loop
-      >
+        controls>
        <source src="/video3_new.mp4" type="video/mp4" />
      </video>
-      <div className="z-20 flex items-center mt-[40%] mb-[16%] md:mt-[40d%] md:mb-[22%] lg:mt-[50%] lg:mb-[8%] justify-center">
-        <div className="flex items-center justify-center flex-col z-20 py-2 md:py-2  px-4 md:px-8  text-white rounded-[15px]  mt-10 w-[85%] lg:w-[900px] mx-auto">
-          <h1
-            style={{ color: 'rgb(157 23 77)', fontSize: '3.5vw'}}
+      <div className="z-20 flex items-center justify-center my-10">
+        <div className="flex items-center justify-center flex-col z-20   px-4 md:px-8  text-white rounded-[15px] w-[85%] lg:w-[900px] mx-auto gap-y-10">
+          <h1 className="text-[#9D174D] text-6xl font-semibold tracking-wider"
           >
             START UP COSTS. YOU CAN FIND THIS FIGURES ON THE FDD AS WELL.{" "}
           </h1>
+          <h2 className="text-2xl text-[#9D174D] tracking-wider">
+          PAY THE $20K FRANCHISE FEE IN ONE YEAR WITH $3K DOWN AND 12 MONTHLY PAYMENTS OF $1,420 EACH.
+          <br/> (PLEASE BE ADVISED: THIS OFFER DOES NOT APPLY TO ANY AREA DEVELOPMENT PROGRAM)
+            
+          </h2>
         </div>
       </div>
     </div>
