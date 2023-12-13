@@ -17,7 +17,6 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Best Residential and Commercial Cleaning Franchise in the World</title>
         <link rel="canonical" href="https://www.ourmaidsfranchise.com/" />
 
       </Head>
@@ -26,8 +25,7 @@ export default function Home() {
       </header>
       <MainHead
         metaTitle="Best Cleaning franchise in the world."
-        metaKeywords="Put Keywords here for home page"
-        metaDesc="Put description here for home page"
+        metaDesc="Own a franchise from the lows $30k. Read the FDD and consult with your attorney or CPA."
       />
 
       <Hero />
