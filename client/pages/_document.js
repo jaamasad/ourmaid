@@ -23,6 +23,19 @@ export default function Document() {
           }}
         />
         {/* <-- Google Tag Manager --> */}
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11398284107" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'AW-11398284107');
+            `,
+          }}
+        />
+        
         <Script
           id="gtm-script"
           strategy="afterInteractive"
@@ -64,6 +77,17 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <Script
+          id="google-ads-conversion"
+          strategy="afterInteractive"
+        >
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'AW-11398284107');
+          `}
+        </Script>
       </body>
     </Html>
   )
