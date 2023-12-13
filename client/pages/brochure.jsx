@@ -9,16 +9,11 @@ const Brochure = () => {
   return (
     <>
       <Head>
-        <title>About Us Best Cleaning Franchise in The World</title>
         <link rel="canonical" href="https://www.ourmaidsfranchise.com/" />
       </Head>
-      <header>
-        <meta name="description" content="Our Maids Franchise delivers high-quality cleaning services and outstanding customer support to residential and commercial customers." />
-      </header>
       <MainHead
         metaTitle="Brochure, best cleaning franchise in the world"
-        metaKeywords="Put Keywords here for brochure page"
-        metaDesc="Put description here for brochure page"
+        metaDesc="Franchise brochure. OurMaids, Inc., has the highest work ethic standards such us, detail-oriented cleaning, best customer service, affordability, etc., you don’t find anywhere else."
       />
       <Main />
       <FranchiseBrochure />

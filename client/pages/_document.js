@@ -8,7 +8,7 @@ export default function Document() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/logo.jpg" />
         <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
-        <meta name="google-site-verification" content="ri2FlSc7_niEkBPwP70KBSbtpTf5dfsC3celKHn_EjM" />
+        <meta name="google-site-verification" content="LoL7UyKHyXOTla_V9PWeZL_-bqui8LCQF-Oj3a5Lkoc" />
         <meta name="msvalidate.01" content="D5C49AFCE7BE200268FEBA33AB9C166B" />
         {/* <! -- Google tag (gtag.js) --> */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-6M4NVKBT4W" />
@@ -23,6 +23,19 @@ export default function Document() {
           }}
         />
         {/* <-- Google Tag Manager --> */}
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11398284107" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'AW-11398284107');
+            `,
+          }}
+        />
+        
         <Script
           id="gtm-script"
           strategy="afterInteractive"
@@ -64,6 +77,17 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <Script
+          id="google-ads-conversion"
+          strategy="afterInteractive"
+        >
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'AW-11398284107');
+          `}
+        </Script>
       </body>
     </Html>
   )

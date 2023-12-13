@@ -27,9 +27,8 @@ const FDD = () => {
   return (
     <div>
       <MainHead
-        metaTitle="Residential and Commercial cleaning franchise, FDD."
-        metaKeywords="Put Keywords here for FDD page"
-        metaDesc="Put description here for FDD page"
+        metaTitle="Franchise Disclosure Document. OurMaids Franchise, Inc. "
+        metaDesc="Look at our FDD here. Download it if you are authorized and be hereby notified of delivery according to the US franchise law."
       />
       {
         !authunticate ? <div className='absolute top-0 w-full h-full z-40  bg-[#1d1d2b] '>

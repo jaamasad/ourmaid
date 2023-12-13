@@ -2,7 +2,7 @@ import React from "react";
 import Head from 'next/head'
 
 
-const MainHead = ({ metaTitle, metaKeywords, metaDesc}) => {
+const MainHead = ({ metaTitle, metaKeywords='ourmaids franchise', metaDesc}) => {
   return (
     <Head>
       <title>{metaTitle}</title>

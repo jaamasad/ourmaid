@@ -8,8 +8,7 @@ const pressRelease = () => {
     <>
       <MainHead
         metaTitle="Residential and commercial cleaning franchise, press release."
-        metaKeywords="Put Keywords here for Pressrelease page"
-        metaDesc="Put description here for Pressrelease page"
+        metaDesc="Press releases, by Our Maids Franchise, Inc. We are America’s most affordable residential and commercial cleaning service franchise, and the most reliable."
       />
       <Hero />
       <Section1 />
